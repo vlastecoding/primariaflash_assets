@@ -4,7 +4,7 @@
   "pages": "10–13",
   "blurb": "Gli organi, i denti, il viaggio del cibo e le sostanze nutritive.",
   "color": "egeo",
-  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 8c-7 0-11 5-11 12 0 8 4 12 5 20 1 7 3 16 8 16s5-14 10-14 5 14 10 14 7-9 8-16c1-8 5-12 5-20 0-7-4-12-11-12-5 0-7 3-12 3S25 8 20 8z\"/><path d=\"M20 18c3 0 6 1 8 3\"/></svg>",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 4v8C20 8 12 10 10 20 8 34 14 50 30 53c12 2 22-4 26-12\"/><path d=\"M32 4v14c0 10 4 18 12 18 4 0 7-2 9-5\"/><path d=\"M53 31h4a4 4 0 0 1 4 4v10M56 41v6\"/></svg>",
   "topics": [
     {
       "id": "funzione",
