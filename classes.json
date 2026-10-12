@@ -1,0 +1,36 @@
+[
+  {
+    "id": "prima",
+    "label": "1ª",
+    "name": "Classe prima",
+    "subjects": []
+  },
+  {
+    "id": "seconda",
+    "label": "2ª",
+    "name": "Classe seconda",
+    "subjects": []
+  },
+  {
+    "id": "terza",
+    "label": "3ª",
+    "name": "Classe terza",
+    "subjects": []
+  },
+  {
+    "id": "quarta",
+    "label": "4ª",
+    "name": "Classe quarta",
+    "subjects": [
+      "storia"
+    ]
+  },
+  {
+    "id": "quinta",
+    "label": "5ª",
+    "name": "Classe quinta",
+    "subjects": [
+      "scienze"
+    ]
+  }
+]

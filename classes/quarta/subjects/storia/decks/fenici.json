@@ -1,0 +1,446 @@
+{
+  "id": "fenici",
+  "name": "I Fenici",
+  "pages": "102–108",
+  "blurb": "Città-stato, porpora e vetro, navi e colonie, l'alfabeto fonetico.",
+  "color": "porpora",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M32 8v32\"/><path d=\"M32 10l16 6-16 6z\" fill=\"currentColor\" fill-opacity=\".25\"/><path d=\"M8 42h48l-6 10H14z\"/><path d=\"M8 42c-2-4-1-8 2-10\"/><path d=\"M6 58c4-2 8-2 12 0s8 2 12 0 8-2 12 0 8 2 12 0\"/></svg>",
+  "topics": [
+    {
+      "id": "dove",
+      "name": "Quando e dove"
+    },
+    {
+      "id": "attivita",
+      "name": "Le attività"
+    },
+    {
+      "id": "invenzioni",
+      "name": "Invenzioni"
+    },
+    {
+      "id": "societa",
+      "name": "Società e religione"
+    },
+    {
+      "id": "colonie",
+      "name": "Empori e colonie"
+    },
+    {
+      "id": "navi",
+      "name": "Le navi"
+    },
+    {
+      "id": "scrittura",
+      "name": "La scrittura"
+    }
+  ],
+  "cards": [
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Quando nasce la civiltà dei Fenici?",
+      "answer": "Dal <b>2000 a.C.</b>",
+      "explanation": "Il 2000 a.C. vuol dire duemila anni prima della nascita di Cristo. È tantissimo tempo fa: più di 4000 anni da oggi!"
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Dove vivevano i Fenici?",
+      "answer": "In una sottile striscia di terra tra le <b>montagne</b> e il <b>Mar Mediterraneo</b>, dove oggi c'è il <b>Libano</b>.",
+      "explanation": "Immagina una striscia di terra lunga e stretta: da una parte il mare, dall'altra le montagne. Lì vivevano i Fenici. Oggi in quel posto c'è il Libano."
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Come erano organizzate le città fenicie?",
+      "answer": "Erano <b>città-stato indipendenti</b>.",
+      "explanation": "Una città-stato è una città che si comanda da sola, come un piccolo stato. Ogni città fenicia aveva il suo governo e non dipendeva dalle altre."
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Quali erano le città-stato principali?",
+      "answer": "<b>Biblo, Berito, Sidone e Tiro</b>.",
+      "explanation": "Trucco per ricordarle: B-B-S-T, cioè Biblo, Berito, Sidone, Tiro. Erano tutte sulla costa, con un porto."
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Che cosa sono le colonie?",
+      "answer": "Nuove città fondate dai Fenici in terre lontane.",
+      "explanation": "I Fenici viaggiavano tanto per mare. In alcuni posti lontani decisero di fermarsi e costruire nuove città: le colonie. Ne parli meglio nell'argomento «Empori e colonie»."
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "In quale periodo i Fenici raggiungono il massimo splendore?",
+      "answer": "Tra il <b>1200 a.C.</b> e l'<b>800 a.C.</b>",
+      "explanation": "In quei 400 anni i Fenici erano al loro meglio: ricchi, con tante navi e tanti commerci."
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Chi invade la Fenicia a partire dal 750 a.C.?",
+      "answer": "Prima gli <b>Assiri</b>, poi i <b>Babilonesi</b>. Molte colonie però restano libere.",
+      "explanation": "Gli Assiri e i Babilonesi erano popoli forti e guerrieri. Conquistarono la Fenicia, ma molte colonie lontane restarono libere."
+    },
+    {
+      "topic": "dove",
+      "page": 102,
+      "question": "Quando e come finisce la civiltà fenicia?",
+      "answer": "Nel <b>146 a.C.</b>, quando i <b>Romani</b> conquistano <b>Cartagine</b>.",
+      "explanation": "Cartagine era la colonia più importante. Quando i Romani la conquistarono, la civiltà fenicia finì."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Perché in Fenicia era difficile coltivare?",
+      "answer": "C'erano <b>poche pianure</b>, poco adatte all'agricoltura.",
+      "explanation": "Per coltivare servono terreni piatti, le pianure. In Fenicia ce n'erano poche, perché le montagne arrivavano quasi fino al mare."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Come riuscivano comunque a coltivare?",
+      "answer": "Con un sistema di <b>irrigazione</b> che portava l'acqua fin nelle valli tra le montagne.",
+      "explanation": "Irrigare vuol dire portare l'acqua ai campi. I Fenici costruirono un sistema per far arrivare l'acqua anche nelle valli tra le montagne, così le piante potevano crescere."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Che cosa coltivavano i Fenici?",
+      "answer": "<b>Grano, orzo, viti, ulivi</b> e <b>palme da dattero</b>.",
+      "explanation": "Trucco: pensa a una tavola apparecchiata. Pane (grano e orzo), vino (viti), olio (ulivi) e datteri come dolce (palme)."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "A che cosa serviva il legno di cedro?",
+      "answer": "A costruire <b>edifici</b> e <b>navi</b>: era pregiato e resistente.",
+      "explanation": "Il cedro è un albero alto con un legno forte e profumato, perfetto per costruire case e navi. Ancora oggi è il simbolo del Libano."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Che cosa fabbricavano gli artigiani fenici?",
+      "answer": "Vasi, gioielli, oggetti in bronzo, avorio e <b>vetro</b>, e tessuti colorati con la <b>porpora</b>.",
+      "explanation": "Gli artigiani sono le persone che fanno oggetti a mano. Quelli fenici erano bravissimi, e i loro oggetti piacevano tanto agli altri popoli."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Che cosa caricavano sulle navi i Fenici?",
+      "answer": "<b>Legno di cedro</b> e <b>prodotti artigianali</b>.",
+      "explanation": "I Fenici vendevano quello che avevano in più: il legno di cedro e gli oggetti fatti dai loro artigiani."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Che cosa ricevevano in cambio?",
+      "answer": "Le materie prime che mancavano: <b>cereali, metalli, lino, sale, avorio</b> e <b>pietre preziose</b>.",
+      "explanation": "Le materie prime sono le cose che servono per fabbricare altro, come i metalli. La Fenicia non le aveva, quindi le prendeva dagli altri popoli in cambio delle sue merci."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Per quali altri popoli commerciavano i Fenici?",
+      "answer": "Per gli <b>Egizi</b> e per gli <b>Assiri</b>.",
+      "explanation": "I Fenici facevano anche da “corrieri” per altri popoli: compravano e vendevano merci per conto degli Egizi e degli Assiri, viaggiando per tutto il Mediterraneo."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Come avvenivano gli scambi? Come cambiarono nel tempo?",
+      "answer": "<ol><li>All'inizio con il <b>baratto</b></li><li>Poi con <b>barre d'oro e d'argento</b></li><li>Infine con le <b>monete</b></li></ol>",
+      "explanation": "Il baratto è uno scambio senza soldi: io ti do il legno, tu mi dai il grano. Poi arrivarono le barre d'oro e d'argento, e alla fine le monete. È la storia di come sono nati i soldi!"
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Perché le monete erano meglio delle barre?",
+      "answer": "Erano <b>più leggere</b> e <b>più pratiche</b> da trasportare.",
+      "explanation": "Pensa: è più facile portare in tasca qualche moneta o una pesante barra di metallo? Le monete erano piccole, leggere e facili da contare."
+    },
+    {
+      "topic": "attivita",
+      "page": 103,
+      "question": "Curiosità: che cosa c'è sulla bandiera del Libano?",
+      "answer": "Un <b>albero di cedro</b>, simbolo del Paese.",
+      "explanation": "Sulla bandiera del Libano c'è un cedro verde tra due strisce rosse. In Libano ci sono ancora boschi di cedri, come ai tempi dei Fenici."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Qual era il prodotto più pregiato dei Fenici?",
+      "answer": "La <b>porpora</b>.",
+      "explanation": "La porpora era un colorante, cioè una sostanza per colorare le stoffe. Era la cosa più preziosa che i Fenici vendevano."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Che cos'è la porpora e da dove si ricava?",
+      "answer": "Un colorante <b>rosso-violaceo</b> che si ricava da un mollusco: il <b>murice</b>.",
+      "explanation": "Il murice è un mollusco di mare con una conchiglia piena di punte. Da lui si ricavava un colore rosso che tende al viola."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Racconta le 4 fasi per ottenere la porpora.",
+      "answer": "<ol><li>I molluschi stanno in vasche con <b>acqua e sale</b> per alcuni giorni</li><li>La porpora viene <b>bollita</b> per circa dieci giorni</li><li>Si <b>immergono le stoffe</b> nel colorante</li><li>Le stoffe si <b>stendono al sole</b> ad asciugare</li></ol>",
+      "explanation": "Prova a raccontare le fasi in ordine, immaginandole: vasche, pentolone sul fuoco, stoffe nel colore, stoffe al sole."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Perché i tessuti color porpora costavano tanto?",
+      "answer": "Il lavoro era <b>lungo e complicato</b> e servivano <b>tantissimi molluschi</b> per poco colorante.",
+      "explanation": "Per avere poco colore servivano tantissimi molluschi e tanti giorni di lavoro. Quando una cosa è difficile da fare, costa tanto: per questo i vestiti color porpora erano da ricchi."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Come si otteneva la pasta di vetro?",
+      "answer": "Scaldando una <b>sabbia</b> ricca di <b>nitro</b> e <b>silice</b>, che diventava morbida.",
+      "explanation": "Il vetro si fa con la sabbia! Se scaldi una sabbia speciale a una temperatura altissima, diventa morbida come una pasta. Il vetro esisteva già in Egitto e in Mesopotamia: i Fenici lo migliorarono."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Quale nuova tecnica inventarono i Fenici per il vetro?",
+      "answer": "La <b>soffiatura del vetro</b>: soffiavano nella pasta di vetro con una lunga cannuccia.",
+      "explanation": "È come fare una bolla col chewing-gum, ma con il vetro caldo! Si soffia in una lunga cannuccia e il vetro si gonfia, poi gli si dà la forma. Si fa così ancora oggi."
+    },
+    {
+      "topic": "invenzioni",
+      "page": 104,
+      "question": "Che cosa realizzavano con il vetro?",
+      "answer": "<b>Calici, bicchieri, vasi</b> e <b>gioielli</b>, anche colorati di blu, viola, rosso, giallo e arancione.",
+      "explanation": "Aggiungendo sostanze speciali riuscivano a colorare il vetro. Molti vasetti fenici erano a righe colorate."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Chi governava le città-stato fenicie?",
+      "answer": "Un <b>re</b>, aiutato da un'<b>assemblea</b> dei mercanti più ricchi.",
+      "explanation": "Il re comandava, ma non da solo. C'era un'assemblea, cioè un gruppo che si riuniva per decidere insieme a lui. Ne facevano parte i mercanti più ricchi."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Il re fenicio aveva potere assoluto?",
+      "answer": "<b>No</b>: decideva insieme all'assemblea.",
+      "explanation": "Potere assoluto vuol dire poter decidere tutto da solo. Il re fenicio non poteva: doveva ascoltare l'assemblea. Attenzione: per i Cretesi è il contrario!"
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Da chi era formata la maggior parte della popolazione?",
+      "answer": "<b>Commercianti, navigatori, artigiani, pastori</b> e <b>contadini</b>.",
+      "explanation": "Quasi tutti i Fenici lavoravano: chi commerciava, chi andava per mare, chi fabbricava oggetti, chi badava agli animali e chi coltivava. Gli schiavi lavoravano per i nobili e i ricchi."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Che cosa potevano fare le donne libere?",
+      "answer": "<b>Lavorare</b>, <b>possedere beni</b>, trattare affari e <b>consigliare i mariti</b>. Si occupavano anche della famiglia e della tessitura.",
+      "explanation": "Per quei tempi le donne fenicie erano abbastanza libere: potevano lavorare e avere cose loro. Si occupavano anche della casa e della tessitura, cioè del fare le stoffe."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Che cosa potevano fare in più le donne nobili?",
+      "answer": "<b>Studiare</b>, partecipare alla <b>vita politica</b> e diventare <b>sacerdotesse</b>.",
+      "explanation": "Le donne nobili erano quelle delle famiglie importanti. Potevano studiare e partecipare alla vita della città. Alcune diventavano sacerdotesse, cioè si occupavano delle cose religiose."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Che cosa vuol dire che i Fenici erano politeisti?",
+      "answer": "Che adoravano <b>tanti dei</b>, legati alle forze della natura.",
+      "explanation": "“Poli” vuol dire tanti e “teisti” viene da dio. Politeisti vuol dire che credevano in tanti dei, ognuno legato a qualcosa della natura."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Chi erano El, Baalat, Baal e Astarte?",
+      "answer": "<b>El</b>: dio creatore<br><b>Baalat</b>: sua moglie, dea dell'amore<br><b>Baal</b>: dio della pioggia e del vento<br><b>Astarte</b>: dea della fertilità",
+      "explanation": "Trucco: El è il papà che ha creato tutto, Baalat è sua moglie e pensa all'amore, Baal porta pioggia e vento, Astarte fa crescere le piante."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Dove si svolgevano le cerimonie religiose?",
+      "answer": "<b>All'aperto</b>, su alture o nei boschi, in santuari chiamati <b>tofet</b>.",
+      "explanation": "I Fenici non pregavano in edifici chiusi ma all'aperto, sulle alture o nei boschi. Questi luoghi sacri si chiamavano tofet, e lì c'era un altare per i doni agli dei."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Che cosa sono le necropoli?",
+      "answer": "I grandi <b>cimiteri</b> dei Fenici. Le tombe erano scavate nelle rocce.",
+      "explanation": "Necropoli è una parola greca che vuol dire “città dei morti”. In Sardegna, vicino a Cagliari, c'è una necropoli fenicia con le tombe scavate nella roccia."
+    },
+    {
+      "topic": "societa",
+      "page": 105,
+      "question": "Perché mettevano cibo e oggetti nelle tombe?",
+      "answer": "Perché l'<b>anima del defunto</b> continuasse a vivere dopo la morte.",
+      "explanation": "I Fenici credevano che dopo la morte l'anima continuasse a vivere. Allora le lasciavano cibo, vestiti e oggetti, come per prepararla a un viaggio."
+    },
+    {
+      "topic": "colonie",
+      "page": 106,
+      "question": "Che cos'è un emporio?",
+      "answer": "Una <b>base commerciale</b> vicino al porto, dove si caricavano, scaricavano e scambiavano le merci.",
+      "explanation": "Un emporio era come un grande magazzino al porto. Le navi arrivavano, scaricavano, scambiavano merci con la gente del posto e poi ripartivano."
+    },
+    {
+      "topic": "colonie",
+      "page": 106,
+      "question": "Che differenza c'è tra un emporio e una colonia?",
+      "answer": "La colonia era una <b>vera città</b>, con strade, case, templi e mura, dove i Fenici andavano a <b>vivere stabilmente</b>.",
+      "explanation": "Nell'emporio si andava a lavorare e poi si ripartiva. Nella colonia invece si andava a vivere: c'erano case, strade, templi e mura. Era una città vera e propria."
+    },
+    {
+      "topic": "colonie",
+      "page": 106,
+      "question": "Che cos'è la madrepatria?",
+      "answer": "La <b>terra d'origine</b>. Le colonie ne mantenevano leggi, religione e lingua.",
+      "explanation": "La madrepatria è la terra da cui vieni, come la “mamma” delle colonie. Anche vivendo lontano, i Fenici delle colonie parlavano la stessa lingua e pregavano gli stessi dei."
+    },
+    {
+      "topic": "colonie",
+      "page": 106,
+      "question": "Da quando i Fenici costruiscono porti lungo il Mediterraneo?",
+      "answer": "Dal <b>1100 a.C.</b>",
+      "explanation": "Dal 1100 a.C. i Fenici costruirono porti lungo le coste, per fermarsi, riposarsi e fare rifornimento durante i loro lunghi viaggi."
+    },
+    {
+      "topic": "colonie",
+      "page": 106,
+      "question": "Nomina alcune colonie fenicie importanti.",
+      "answer": "<b>Palermo</b> (Sicilia), <b>Cagliari</b> (Sardegna), <b>Cadice</b> (Spagna), <b>Tangeri</b> (Marocco).",
+      "explanation": "Due colonie fenicie sono in Italia: Palermo in Sicilia e Cagliari in Sardegna! Le altre sono Cadice in Spagna e Tangeri in Marocco."
+    },
+    {
+      "topic": "colonie",
+      "page": 106,
+      "question": "Qual era la colonia più importante? Quando e dove fu fondata?",
+      "answer": "<b>Cartagine</b>, nell'<b>814 a.C.</b>, sulle coste della <b>Tunisia</b>.",
+      "explanation": "Cartagine era così forte che fondò a sua volta altre colonie. Si trovava in Africa, in Tunisia, proprio di fronte alla Sicilia."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Come navigavano i Fenici all'inizio?",
+      "answer": "Solo <b>di giorno</b> e <b>lungo le coste</b>.",
+      "explanation": "All'inizio non volevano rischiare di perdersi: navigavano solo con la luce del giorno e restando vicino alla costa, così la vedevano sempre."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Come impararono a navigare in mare aperto e di notte?",
+      "answer": "Studiando le <b>maree</b>, le <b>stelle</b> e le <b>costellazioni</b>.",
+      "explanation": "Le maree sono il mare che si alza e si abbassa. Studiando il mare e il cielo, i Fenici impararono a capire dove si trovavano anche lontano dalla costa."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Quale stella usavano per orientarsi? Perché?",
+      "answer": "La <b>Stella Polare</b>, perché indica sempre il <b>nord</b>.",
+      "explanation": "La Stella Polare sta sempre nello stesso punto del cielo, verso nord. Era come una bussola nel cielo, e i Fenici furono i primi a capirlo."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Quali due tipi di nave avevano i Fenici?",
+      "answer": "<b>Navi commerciali</b>: larghe e capienti.<br><b>Navi da guerra</b>: strette e veloci.",
+      "explanation": "Le navi commerciali erano larghe come un camion, per portare tanta roba. Quelle da guerra erano strette come una macchina da corsa, per andare veloci."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Come andavano le navi da guerra senza vento?",
+      "answer": "Con le <b>file di remi</b>.",
+      "explanation": "Senza vento le vele non servono. Allora tanti rematori remavano tutti insieme e la nave andava avanti lo stesso."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "A che cosa servivano il timone e la vela?",
+      "answer": "<b>Timone</b>: due lunghi remi a poppa che davano la direzione.<br><b>Vela</b>: quadrata, sfruttava il vento.",
+      "explanation": "Il timone è dietro (a poppa) e serve per girare. La vela quadrata prende il vento."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Che cosa erano il ponte e la stiva?",
+      "answer": "<b>Ponte</b>: il pavimento di travi su cui si camminava.<br><b>Stiva</b>: lo spazio per le merci dentro lo scafo.",
+      "explanation": "Il ponte è il “pavimento” della nave, dove camminano i marinai. La stiva è sotto, nella pancia della nave: lì mettevano anfore e sacchi di merci."
+    },
+    {
+      "topic": "navi",
+      "page": 107,
+      "question": "Com'era fatto il porto di Cartagine?",
+      "answer": "Aveva <b>due porti</b>: uno <b>rotondo</b> per le navi da guerra e uno <b>rettangolare</b> per i commerci.",
+      "explanation": "Il porto rotondo, con un'isoletta in mezzo, era per le navi da guerra. Quello rettangolare era per le navi dei mercanti."
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Quali scritture esistevano già prima dei Fenici?",
+      "answer": "I <b>geroglifici</b> degli Egizi e la <b>scrittura cuneiforme</b> della Mesopotamia.",
+      "explanation": "I geroglifici sono la scrittura degli Egizi, fatta di disegnini. La scrittura cuneiforme era fatta di segni a forma di chiodo. Le hai già studiate!"
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Che problema avevano quelle scritture?",
+      "answer": "Avevano <b>moltissimi segni</b> ed erano <b>difficili da imparare</b>.",
+      "explanation": "Avevano tantissimi segni diversi. Imparare a scrivere era difficile e lungo, e lo sapevano fare in pochi."
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Perché i Fenici volevano una scrittura più semplice?",
+      "answer": "Per <b>registrare le merci</b>, <b>scrivere i contratti</b> e <b>tenere i conti</b>.",
+      "explanation": "I Fenici erano commercianti e dovevano scrivere tante cose: quante merci avevano, chi doveva pagare e quanto. Serviva una scrittura facile e veloce."
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Che cosa inventarono i Fenici?",
+      "answer": "L'<b>alfabeto fonetico</b>.",
+      "explanation": "L'alfabeto fenicio è il “nonno” dell'alfabeto che usi a scuola! Le lettere che scrivi ogni giorno vengono da lì, passando per i Greci e i Romani."
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Da dove viene la parola “fonetico”?",
+      "answer": "Dal greco <b><i>phonè</i></b>, che vuol dire <b>“voce”</b>.",
+      "explanation": "<i>Phonè</i> in greco vuol dire voce, cioè suono. Pensa alla parola telefono: la voce che arriva da lontano!"
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Quanti segni aveva l'alfabeto fenicio? Che cosa indicava ogni segno?",
+      "answer": "<b>22 segni</b>, e ognuno indicava un <b>suono</b> (non un oggetto o un'idea).",
+      "explanation": "Ogni segno era un suono, come le nostre lettere. Con soli 22 segni si poteva scrivere tutto!"
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Quali lettere aveva? In che direzione si scriveva?",
+      "answer": "Solo <b>consonanti</b>, da <b>destra verso sinistra</b>.",
+      "explanation": "Le consonanti sono lettere come B, D, M. Le vocali (A, E, I, O, U) non c'erano. E si scriveva al contrario rispetto a noi, da destra a sinistra."
+    },
+    {
+      "topic": "scrittura",
+      "page": 108,
+      "question": "Che cosa cambiarono i Greci nell'alfabeto?",
+      "answer": "Aggiunsero le <b>vocali</b> e scrissero da <b>sinistra a destra</b>.",
+      "explanation": "I Greci presero l'alfabeto fenicio e lo migliorarono: aggiunsero le vocali e scrissero da sinistra a destra, come facciamo noi."
+    }
+  ]
+}

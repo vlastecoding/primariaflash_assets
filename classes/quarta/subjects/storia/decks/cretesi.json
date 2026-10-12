@@ -1,0 +1,403 @@
+{
+  "id": "cretesi",
+  "name": "I Cretesi",
+  "pages": "118–123",
+  "blurb": "Creta, le città-palazzo, il commercio sul mare, il toro e il palazzo di Cnosso.",
+  "color": "egeo",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 14c2 10 8 14 14 14M54 14c-2 10-8 14-14 14\"/><path d=\"M22 26c0-2 4-4 10-4s10 2 10 4l-2 18c-1 6-4 10-8 10s-7-4-8-10z\"/><circle cx=\"27\" cy=\"34\" r=\"1.6\" fill=\"currentColor\"/><circle cx=\"37\" cy=\"34\" r=\"1.6\" fill=\"currentColor\"/><path d=\"M28 46h8\"/></svg>",
+  "topics": [
+    {
+      "id": "dove",
+      "name": "Quando e dove"
+    },
+    {
+      "id": "attivita",
+      "name": "Attività e commercio"
+    },
+    {
+      "id": "societa",
+      "name": "Società e scrittura"
+    },
+    {
+      "id": "religione",
+      "name": "La religione"
+    },
+    {
+      "id": "cnosso",
+      "name": "Il palazzo di Cnosso"
+    }
+  ],
+  "cards": [
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Quando nasce la civiltà cretese?",
+      "answer": "Attorno al <b>2500 a.C.</b>",
+      "explanation": "Il 2500 a.C. viene prima del 2000 a.C., quando nascono i Fenici. Quindi i Cretesi sono ancora più antichi!"
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Dove si sviluppa la civiltà cretese?",
+      "answer": "Sull'isola di <b>Creta</b>, nel <b>Mar Mediterraneo</b>, a sud della Grecia.",
+      "explanation": "Creta è un'isola grande e lunga, a sud della Grecia. Oggi fa parte della Grecia. È proprio in mezzo al mare."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Perché la posizione di Creta era utile ai Cretesi?",
+      "answer": "Era al <b>centro del Mediterraneo</b> e questo favoriva i <b>commerci</b>.",
+      "explanation": "Creta è come una piazza in mezzo al mare: da lì si arriva facilmente in Grecia, in Egitto e in Anatolia. Per questo era perfetta per commerciare."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Per quanto tempo i Cretesi ebbero la flotta più potente del mondo antico?",
+      "answer": "Per circa <b>600 anni</b>.",
+      "explanation": "La flotta è l'insieme di tutte le navi di un popolo. Per circa 600 anni nessuno aveva navi forti come quelle dei Cretesi."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Che cos'è la talassocrazia?",
+      "answer": "Il <b>dominio del mare</b>, cioè il potere commerciale e marittimo dei Cretesi.<br>Viene dal greco <i>thàlassa</i> (mare) e <i>kratìa</i> (dominio).",
+      "explanation": "È una parolona, ma è facile: <i>thàlassa</i> vuol dire mare, <i>kratìa</i> vuol dire potere. Talassocrazia = potere sul mare. I Cretesi comandavano sul mare grazie alle loro navi."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "I Cretesi erano un popolo pacifico o guerriero?",
+      "answer": "Un popolo <b>pacifico</b>.",
+      "explanation": "Pacifico vuol dire che non amavano fare la guerra. Preferivano commerciare e vivere in pace."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Che cosa sono le città-palazzo?",
+      "answer": "<b>Palazzi grandiosi</b>, con tante stanze e ricche decorazioni, che erano delle vere <b>città indipendenti</b>.",
+      "explanation": "Immagina un palazzo così grande da sembrare una città: dentro c'erano stanze, magazzini, laboratori e cortili. Ogni palazzo si comandava da solo, come una piccola città indipendente."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Quali erano le città-palazzo principali?",
+      "answer": "<b>Cnosso</b>, <b>Festo</b> e <b>Mallia</b>.",
+      "explanation": "Le città-palazzo erano Cnosso, Mallia e Festo. La più importante era Cnosso: la studierai nell'argomento «Il palazzo di Cnosso»."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Come sappiamo che le città cretesi non combattevano tra loro?",
+      "answer": "Perché <b>non avevano mura difensive</b>.",
+      "explanation": "Le mura servono per difendersi dai nemici. Se una città non ha mura vuol dire che non aveva paura di essere attaccata: le città cretesi andavano d'accordo tra loro."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Che cosa succede attorno al 1700 a.C.?",
+      "answer": "La civiltà cretese viene distrutta una prima volta, probabilmente da un <b>terremoto</b>. I palazzi vengono <b>ricostruiti</b>.",
+      "explanation": "Un terremoto è quando la terra trema forte. Distrusse i palazzi, ma i Cretesi non si arresero e li ricostruirono."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Quando e perché scompare la civiltà cretese?",
+      "answer": "Nel <b>1450 a.C.</b>, per un altro <b>terremoto</b> o per un <b>maremoto</b> causato dal vulcano dell'isola di <b>Thera</b> (oggi Santorini).",
+      "explanation": "Un maremoto è un'onda gigante causata da un terremoto o da un vulcano. Il vulcano dell'isola di Thera (oggi Santorini) eruttò, e forse fu questo a far scomparire per sempre la civiltà cretese."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Chi conquistò Creta?",
+      "answer": "I <b>Micenei</b>, un popolo di guerrieri arrivato dalla <b>Grecia</b>.",
+      "explanation": "Dopo il disastro i Cretesi erano deboli. Così i Micenei, un popolo di guerrieri della Grecia, sbarcarono sull'isola e la conquistarono."
+    },
+    {
+      "topic": "dove",
+      "page": 118,
+      "question": "Quale animale era sacro per i Cretesi?",
+      "answer": "Il <b>toro</b>.",
+      "explanation": "Sacro vuol dire speciale e legato agli dei. Il toro lo ritroverai tante volte: nei vasi, negli affreschi e nella religione dei Cretesi."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Creta era montuosa: perché si poteva coltivare e allevare?",
+      "answer": "Grazie al <b>clima mite</b> e alle <b>valli fertili</b>.",
+      "explanation": "Clima mite vuol dire né troppo caldo né troppo freddo. Valli fertili vuol dire con terra buona. Così le piante crescevano bene anche su un'isola piena di montagne."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Che cosa coltivavano e allevavano i Cretesi?",
+      "answer": "Coltivavano <b>cereali, viti</b> e <b>ulivi</b>.<br>Sulle colline allevavano <b>pecore</b> e <b>capre</b>.",
+      "explanation": "Cereali per il pane, viti per il vino, ulivi per l'olio: le stesse cose che si coltivano ancora oggi in Grecia e in Italia. Sulle colline pascolavano pecore e capre."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "A che cosa serviva il legname dei boschi?",
+      "answer": "A costruire <b>attrezzi</b> e <b>imbarcazioni</b>, usate anche per la <b>pesca</b>.",
+      "explanation": "Il legname è il legno tagliato dagli alberi. Con quello costruivano attrezzi e barche, e con le barche andavano anche a pescare."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Che cosa producevano gli artigiani cretesi?",
+      "answer": "Oggetti in <b>bronzo</b>, <b>tessuti</b>, <b>gioielli</b> e <b>ceramiche</b>.",
+      "explanation": "L'artigianato era una delle attività più importanti di Creta. Gli artigiani facevano oggetti bellissimi, per esempio gioielli d'oro!"
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Come erano decorate le ceramiche cretesi?",
+      "answer": "Con <b>temi naturalistici</b> (piante, fiori, animali) o <b>motivi geometrici</b> (spirali, cerchi).",
+      "explanation": "Naturalistici vuol dire presi dalla natura: piante, fiori, animali. Geometrici vuol dire forme come spirali e cerchi. Molti vasi cretesi erano pieni di spirali!"
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Che cos'è lo stile Kamáres?",
+      "answer": "Un nuovo tipo di <b>decorazione dei vasi</b>, che prende il nome dalla città dove ne furono trovati alcuni.",
+      "explanation": "Kamáres è il nome del posto dove sono stati trovati alcuni di questi vasi. Da lì viene il nome di questo tipo di decorazione."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Per che cosa erano famosi i Cretesi nel mondo antico?",
+      "answer": "Come <b>mercanti</b> e <b>abili marinai</b>.",
+      "explanation": "Mercanti vuol dire che compravano e vendevano. Marinai vuol dire che sapevano andare per mare. I Cretesi erano bravissimi in tutte e due le cose."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Dove arrivavano le navi cretesi?",
+      "answer": "Sulle coste dell'<b>Anatolia</b>, della <b>Grecia</b> e dell'<b>Egitto</b>.",
+      "explanation": "Le navi partivano da Creta e arrivavano in Grecia, in Anatolia (dove oggi c'è la Turchia) e in Egitto."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Che cosa esportavano (vendevano) i Cretesi?",
+      "answer": "<b>Vino, olio, lana, ceramiche</b> e <b>armi in bronzo</b>.",
+      "explanation": "Esportare vuol dire mandare fuori, cioè vendere ad altri popoli. Trucco: le esportazioni “escono” da Creta."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Che cosa importavano (compravano) i Cretesi?",
+      "answer": "Le materie prime che mancavano: <b>lino, cotone, stagno, rame</b> e <b>metalli preziosi</b>.",
+      "explanation": "Importare vuol dire portare dentro, cioè comprare dagli altri. Erano cose che a Creta mancavano, per esempio i metalli."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "Com'erano fatte le navi cretesi?",
+      "answer": "<b>Lunghe e sottili</b>, con <b>due timoni</b> e una <b>grande vela</b>.",
+      "explanation": "Lunghe e sottili per scivolare veloci sull'acqua. Due timoni per girare e una grande vela per prendere il vento."
+    },
+    {
+      "topic": "attivita",
+      "page": 119,
+      "question": "In quali mesi navigavano soprattutto? Perché?",
+      "answer": "Da <b>marzo a novembre</b>, quando i <b>venti</b> erano più favorevoli.",
+      "explanation": "In inverno il mare è più agitato e i venti sono pericolosi. Per questo i Cretesi viaggiavano soprattutto dalla primavera all'autunno."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Chi c'era a capo di ogni città cretese?",
+      "answer": "Il <b>re</b>, che aveva <b>potere assoluto</b>. Si credeva che discendesse dagli <b>dei</b>.",
+      "explanation": "Il re cretese decideva tutto da solo: aveva potere assoluto. Attenzione: è il contrario del re fenicio, che doveva decidere insieme all'assemblea!"
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Chi aiutava il re? Che cosa facevano?",
+      "answer": "I <b>funzionari di corte</b> e i <b>sacerdoti</b>: amministravano la giustizia, organizzavano la religione e controllavano i commerci.",
+      "explanation": "Il re non poteva fare tutto da solo. I funzionari di corte e i sacerdoti lo aiutavano a giudicare, a organizzare la religione e a controllare i commerci."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Da chi era formato il resto della popolazione?",
+      "answer": "<b>Artigiani, contadini, pastori, pescatori</b> e <b>marinai</b>.",
+      "explanation": "Erano le persone che lavoravano ogni giorno: chi faceva oggetti, chi coltivava, chi badava agli animali, chi pescava e chi andava per mare."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Che cosa erano i tributi e a che cosa servivano?",
+      "answer": "Tasse che il popolo pagava per mantenere la <b>famiglia reale</b>, i <b>sacerdoti</b> e la <b>flotta</b>.",
+      "explanation": "Un tributo è come una tassa: una parte di quello che guadagnavi andava al re. Serviva a mantenere la famiglia reale, i sacerdoti e le navi."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Che lavori facevano gli schiavi?",
+      "answer": "I più faticosi: <b>costruire i palazzi</b> e <b>remare</b> sulle navi.",
+      "explanation": "Gli schiavi non erano liberi e facevano i lavori più pesanti: costruire i palazzi con le pietre e remare sulle navi."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Come erano considerate le donne cretesi?",
+      "answer": "Erano <b>tenute in grande considerazione</b> e piuttosto libere: partecipavano a <b>feste</b>, <b>banchetti</b> e <b>gare sportive</b>.",
+      "explanation": "Le donne cretesi erano rispettate e abbastanza libere. Negli affreschi portano gioielli, hanno gli occhi truccati e pettinature molto elaborate."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Quale scrittura usavano all'inizio i Cretesi?",
+      "answer": "Una scrittura fatta di <b>geroglifici</b>.",
+      "explanation": "Come gli Egizi, all'inizio anche i Cretesi scrivevano con i geroglifici, cioè con piccoli disegni."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Che cos'è la Lineare A?",
+      "answer": "Una scrittura più semplice di circa <b>80 segni</b>, separati da punti e lineette. Serviva per i <b>conti</b> e le <b>liste di merci</b>.",
+      "explanation": "Per fare i conti e le liste delle merci serviva una scrittura più semplice. La Lineare A aveva circa 80 segni: molti meno dei geroglifici, ma di più dei 22 dell'alfabeto fenicio."
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Sappiamo leggere la Lineare A?",
+      "answer": "<b>No</b>, non è ancora stata decifrata.",
+      "explanation": "Decifrare vuol dire riuscire a leggere e capire. Abbiamo trovato tante tavolette in Lineare A, ma nessuno è ancora riuscito a capire cosa c'è scritto. È un mistero!"
+    },
+    {
+      "topic": "societa",
+      "page": 120,
+      "question": "Che cos'è il disco di Festo?",
+      "answer": "Un <b>disco di terracotta</b> di circa 15 cm con circa <b>200 simboli</b>. Fu trovato a <b>Festo</b> nel <b>1908</b> da archeologi italiani. Si legge a <b>spirale</b>, dal bordo verso il centro.",
+      "explanation": "Il disco è grande più o meno come un piattino. I simboli sono messi a spirale: forse si legge partendo dal bordo e girando verso il centro. Anche questo è un mistero non ancora risolto."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "I Cretesi erano monoteisti o politeisti?",
+      "answer": "<b>Politeisti</b>: adoravano gli elementi della natura e gli animali.",
+      "explanation": "Come i Fenici, anche i Cretesi credevano in tanti dei. Adoravano la natura e gli animali."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Che cosa rappresentava il toro?",
+      "answer": "La <b>forza</b>. Era il <b>simbolo</b> della civiltà cretese.",
+      "explanation": "Il toro è un animale fortissimo. Per questo per i Cretesi era il simbolo della forza e di tutta la loro civiltà."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Chi era la divinità principale? Qual era il suo simbolo?",
+      "answer": "La <b>Dea Madre</b>, protettrice della terra, delle piante, degli animali e della vita. Il suo simbolo erano i <b>serpenti</b>.",
+      "explanation": "La Dea Madre proteggeva tutto quello che vive: la terra, le piante, gli animali. Il suo simbolo erano i serpenti: in una statuetta famosa tiene un serpente in ogni mano."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Dove si svolgevano i riti religiosi?",
+      "answer": "<b>All'aperto</b>: nei cortili dei palazzi, nei santuari sulle montagne o nelle grotte.",
+      "explanation": "Anche i Cretesi pregavano soprattutto all'aperto: nei cortili dei palazzi, sulle montagne o dentro le grotte."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Chi celebrava i riti e organizzava le feste?",
+      "answer": "I <b>sacerdoti</b> e le <b>sacerdotesse</b>.",
+      "explanation": "I sacerdoti e le sacerdotesse erano le persone che si occupavano degli dei: facevano i riti e preparavano le grandi feste."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Che cos'era il Salto del toro (taurocatàpsia)?",
+      "answer": "Una prova di coraggio: si afferrava il toro per le <b>corna</b> e si faceva un'<b>acrobazia</b> sul suo dorso.",
+      "explanation": "In un affresco famoso un ragazzo fa una capriola sopra il toro! Bisognava prendere il toro per le corna e saltargli sulla schiena. Ci voleva tantissimo coraggio."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Chi doveva fare il Salto del toro? Perché?",
+      "answer": "<b>Ragazzi e ragazze</b>, per <b>diventare adulti</b>: era un rito di passaggio.",
+      "explanation": "Un rito di passaggio è una prova per dimostrare che sei diventato grande. I ragazzi e le ragazze cretesi facevano il Salto del toro per diventare adulti."
+    },
+    {
+      "topic": "religione",
+      "page": 121,
+      "question": "Chi è la Signora dei serpenti?",
+      "answer": "Una <b>statuetta</b> trovata negli scavi del palazzo di <b>Cnosso</b>.",
+      "explanation": "È una statuetta con un serpente in ogni mano, trovata negli scavi di Cnosso. Ti ricorda qualcuno? I serpenti erano il simbolo della Dea Madre."
+    },
+    {
+      "topic": "cnosso",
+      "page": 122,
+      "question": "Chi scoprì il palazzo di Cnosso? Quando?",
+      "answer": "L'archeologo inglese <b>Arthur Evans</b>, nel <b>1900</b>.",
+      "explanation": "Un archeologo è uno scienziato che scava per trovare le cose del passato. Arthur Evans scoprì il palazzo nel 1900, cioè poco più di cento anni fa."
+    },
+    {
+      "topic": "cnosso",
+      "page": 122,
+      "question": "Perché la civiltà cretese si chiama anche minoica?",
+      "answer": "Dal suo re più leggendario: <b>Minosse</b>.",
+      "explanation": "Minosse è un re delle leggende. Dal suo nome la civiltà cretese si chiama anche minoica."
+    },
+    {
+      "topic": "cnosso",
+      "page": 122,
+      "question": "Che cosa conteneva il palazzo di Cnosso?",
+      "answer": "Era la <b>casa del re</b> e aveva più di <b>1000 stanze</b>, oltre a laboratori, magazzini e cortili.",
+      "explanation": "Più di mille stanze! Se ne visitassi una al giorno, ci metteresti quasi tre anni. Era la casa del re, ma anche un posto pieno di laboratori e magazzini."
+    },
+    {
+      "topic": "cnosso",
+      "page": 122,
+      "question": "Com'era costruito il palazzo?",
+      "answer": "Tanti edifici intorno a un <b>grande cortile</b>, coperti da terrazze. I piani erano collegati da <b>scale</b> e <b>porticati</b>, le stanze da lunghi <b>corridoi</b>.",
+      "explanation": "Immagina tanti edifici attaccati intorno a un grande cortile, con le terrazze sopra. Per passare da un piano all'altro c'erano scale e porticati."
+    },
+    {
+      "topic": "cnosso",
+      "page": 122,
+      "question": "Che cosa sono i pithoi?",
+      "answer": "Grandi <b>recipienti di terracotta</b> nei magazzini, per conservare i <b>prodotti agricoli</b>.",
+      "explanation": "I pithoi erano vasi enormi di terracotta, grandi quanto un bambino. Ci conservavano olio, vino e cereali."
+    },
+    {
+      "topic": "cnosso",
+      "page": 123,
+      "question": "Che cos'era la sala del trono?",
+      "answer": "La sala con un <b>trono di pietra</b> dove il re riceveva funzionari e sudditi.",
+      "explanation": "Il re si sedeva sul trono di pietra e riceveva le persone che venivano a parlargli."
+    },
+    {
+      "topic": "cnosso",
+      "page": 123,
+      "question": "Che cosa si faceva nel cortile centrale?",
+      "answer": "Le <b>cerimonie religiose</b>, come il <b>Salto del toro</b>. Era il cuore del palazzo.",
+      "explanation": "Il cortile centrale era il cuore del palazzo: lì si facevano le cerimonie, anche il famoso Salto del toro."
+    },
+    {
+      "topic": "cnosso",
+      "page": 123,
+      "question": "Com'erano gli appartamenti della regina?",
+      "answer": "<b>Riccamente decorati</b>, con un <b>bagno con vasca</b>.",
+      "explanation": "La regina aveva stanze tutte decorate e perfino un bagno con la vasca, una cosa rarissima a quei tempi!"
+    },
+    {
+      "topic": "cnosso",
+      "page": 123,
+      "question": "Come erano decorate le stanze?",
+      "answer": "Con <b>affreschi</b> dai colori vivaci, pieni di particolari.",
+      "explanation": "Un affresco è un dipinto fatto direttamente sul muro. A Cnosso ce n'è uno famoso con dei delfini blu!"
+    },
+    {
+      "topic": "cnosso",
+      "page": 123,
+      "question": "Dove abitava il popolo?",
+      "answer": "In case <b>intorno al palazzo</b>.",
+      "explanation": "Il palazzo stava al centro e le case della gente comune erano tutto intorno, come un paese."
+    }
+  ]
+}

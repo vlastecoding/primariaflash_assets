@@ -1,0 +1,227 @@
+{
+  "id": "corpo",
+  "name": "Il corpo umano",
+  "pages": "6–9",
+  "blurb": "Apparati e sistemi, organi, tessuti e i diversi tipi di cellule.",
+  "color": "sci",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M32 54s-20-11.5-20-27a11 11 0 0 1 20-6.3A11 11 0 0 1 52 27c0 15.5-20 27-20 27z\"/><path d=\"M14 33h10l4-8 6 15 4-7h12\"/></svg>",
+  "topics": [
+    {
+      "id": "apparati",
+      "name": "Apparati e sistemi"
+    },
+    {
+      "id": "organi",
+      "name": "Organi e tessuti"
+    },
+    {
+      "id": "cellule",
+      "name": "I tipi di cellule"
+    }
+  ],
+  "cards": [
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "Che cosa fanno tutti gli esseri viventi, compreso l'essere umano?",
+      "answer": "<b>Nascono, crescono, si muovono, respirano</b> e <b>rispondono agli stimoli</b> che arrivano da fuori.",
+      "explanation": "Queste sono le funzioni vitali: le cose che fa ogni essere vivente. Pensa a un cane: anche lui nasce, cresce, si muove e respira, proprio come te."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "Che cos'è un organo? Fai un esempio.",
+      "answer": "Una <b>parte del corpo</b> che ha una <b>funzione specifica</b>, cioè un compito preciso. Per esempio il <b>cuore</b> o i <b>polmoni</b>.",
+      "explanation": "Ogni organo ha il suo lavoro, come i giocatori di una squadra: il cuore pompa il sangue, i polmoni ti fanno respirare."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "Che cos'è un apparato (o sistema)?",
+      "answer": "Un <b>insieme di organi</b> collegati tra loro per svolgere le <b>funzioni vitali</b>.",
+      "explanation": "Un organo da solo non basta. Per mangiare, per esempio, servono bocca, stomaco, intestino e altri ancora: tutti insieme formano l'apparato digerente."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "Gli apparati lavorano ognuno per conto suo?",
+      "answer": "<b>No</b>: ognuno ha un <b>compito specifico</b>, ma sono tutti <b>collegati</b> e lavorano in <b>perfetta sintonia</b>.",
+      "explanation": "È come un'orchestra: ogni strumento suona la sua parte, ma la musica viene fuori solo se suonano tutti insieme e d'accordo."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "Quali sono i principali apparati e sistemi del corpo?",
+      "answer": "<b>Apparati</b>: digerente, respiratorio, cardio-circolatorio, escretore, riproduttore.<br><b>Sistemi</b>: scheletrico, muscolare, nervoso.",
+      "explanation": "Sono 8 in tutto. Trucco: dividili in due gruppi, 5 apparati e 3 sistemi. I sistemi sono quelli che “tengono su e fanno muovere”: ossa, muscoli e nervi."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "A che cosa serve l'apparato digerente?",
+      "answer": "A <b>trasformare il cibo</b> per darci l'<b>energia</b> che serve per muoverci, pensare…",
+      "explanation": "Il cibo che mangi viene “smontato” in pezzetti piccolissimi. Da lì il corpo ricava l'energia per giocare, correre e anche per pensare!"
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "A che cosa serve l'apparato cardio-circolatorio?",
+      "answer": "<b>Porta a tutte le cellule l'ossigeno e il nutrimento</b> e poi raccoglie le <b>sostanze di rifiuto</b>.",
+      "explanation": "Il cuore spinge il sangue in tutto il corpo, come un camion delle consegne: porta ossigeno e cibo alle cellule e al ritorno si riprende i rifiuti."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "A che cosa serve l'apparato respiratorio?",
+      "answer": "<b>Fornisce l'ossigeno</b> ed <b>elimina l'anidride carbonica</b>.",
+      "explanation": "Quando inspiri entra l'ossigeno, che serve al corpo per vivere. Quando espiri butti fuori l'anidride carbonica, un gas di scarto."
+    },
+    {
+      "topic": "apparati",
+      "page": 6,
+      "question": "A che cosa serve l'apparato escretore?",
+      "answer": "<b>Elimina le sostanze di rifiuto</b> prodotte dal nostro corpo.",
+      "explanation": "Anche il corpo produce cose che non servono più. L'apparato escretore le butta fuori, come i netturbini che tengono pulita la città."
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "A che cosa serve il sistema muscolare?",
+      "answer": "Permette il <b>movimento</b> di tutte le parti del corpo: quelle <b>esterne</b>, come le braccia, e quelle <b>interne</b>, come il cuore.",
+      "explanation": "I muscoli non servono solo per correre e saltare: anche il cuore è un muscolo, e lavora sempre, perfino quando dormi!"
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "A che cosa serve il sistema scheletrico?",
+      "answer": "È l'<b>impalcatura</b> del corpo: lo <b>sostiene</b> e <b>protegge gli organi interni</b>.",
+      "explanation": "Senza ossa saremmo molli come una medusa! Lo scheletro ci tiene dritti e fa da scudo agli organi delicati: per esempio il cranio protegge il cervello."
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "A che cosa serve l'apparato riproduttore?",
+      "answer": "Permette di <b>dare vita ad altri individui</b>, cioè di far nascere nuovi esseri umani.",
+      "explanation": "È grazie a questo apparato che nascono i bambini. Così la vita continua, di generazione in generazione."
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "A che cosa serve il sistema nervoso?",
+      "answer": "<b>Raccoglie ed elabora gli stimoli</b> che arrivano dal mondo esterno e <b>coordina le funzioni</b> del corpo.",
+      "explanation": "Il cervello è il capo: riceve i messaggi dai sensi (vista, udito, tatto…) e decide che cosa fare. È lui che fa lavorare insieme tutti gli altri apparati."
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "Quale sistema coordina e controlla il funzionamento di tutto il corpo?",
+      "answer": "Il <b>sistema nervoso</b>.",
+      "explanation": "Il sistema nervoso è come il direttore d'orchestra: dà il tempo a tutti gli altri."
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "Quale apparato trasporta in tutto il corpo ossigeno e sostanze nutritive?",
+      "answer": "L'<b>apparato cardio-circolatorio</b>.",
+      "explanation": "“Cardio” vuol dire cuore e “circolatorio” vuol dire che fa girare: il cuore fa girare il sangue, che trasporta tutto."
+    },
+    {
+      "topic": "apparati",
+      "page": 7,
+      "question": "Quale apparato ci fornisce energia?",
+      "answer": "L'<b>apparato digerente</b>.",
+      "explanation": "L'energia arriva dal cibo. È l'apparato digerente che trasforma quello che mangi in energia per il corpo."
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Da che cosa sono formati apparati e sistemi? E gli organi?",
+      "answer": "Apparati e sistemi sono formati da <b>organi</b>.<br>Gli organi sono fatti di <b>tessuti</b>.<br>I tessuti sono fatti di <b>cellule</b> dello stesso tipo.",
+      "explanation": "Funziona come le scatole una dentro l'altra: cellule → tessuti → organi → apparati."
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Quali organi servono per respirare? E per digerire?",
+      "answer": "Per <b>respirare</b>: polmoni, naso e trachea.<br>Per <b>digerire</b>: bocca, denti, stomaco, intestino e altri organi.",
+      "explanation": "Per respirare non bastano i polmoni: l'aria entra dal naso e scende nella trachea, un tubo che la porta fino ai polmoni."
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Che lavoro fanno il cuore, lo stomaco e i polmoni?",
+      "answer": "Il <b>cuore</b> pompa il sangue e lo fa circolare.<br>Lo <b>stomaco</b> digerisce i cibi.<br>I <b>polmoni</b> fanno entrare e uscire l'aria.",
+      "explanation": "Ogni organo fa parte di un apparato ma ha anche un compito tutto suo. Prova a mettere una mano sul petto: senti il cuore che pompa?"
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Che differenza c'è tra un sistema e un apparato?",
+      "answer": "I <b>sistemi</b> sono formati da organi dello <b>stesso tessuto</b>.<br>Gli <b>apparati</b> da organi di <b>tessuti diversi</b>.",
+      "explanation": "Spesso le due parole si usano come se fossero uguali. Ma nel sistema muscolare, per esempio, c'è un solo tipo di tessuto, quello dei muscoli. Nell'apparato digerente invece gli organi sono fatti di tessuti diversi."
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Che cos'è un tessuto?",
+      "answer": "Un <b>insieme di cellule</b> che hanno <b>forma e funzione simile</b>.",
+      "explanation": "Pensa a un muro di mattoni: ogni mattone è una cellula, e il muro intero è il tessuto."
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Quali sono i 4 principali tessuti del corpo umano?",
+      "answer": "<b>Nervoso, epiteliale, muscolare</b> e <b>connettivo</b>.",
+      "explanation": "Trucco per ricordarli: N-E-M-C, “Nonna Emma Mangia Ciliegie”: Nervoso, Epiteliale, Muscolare, Connettivo."
+    },
+    {
+      "topic": "organi",
+      "page": 8,
+      "question": "Quali sono le parti di una cellula?",
+      "answer": "<b>Membrana, citoplasma, nucleo</b> e <b>organuli</b> (o organelli).",
+      "explanation": "La membrana è la “pelle” che chiude la cellula. Il citoplasma è il liquido dentro. Il nucleo è il centro di comando. Gli organuli sono piccoli “attrezzi” che lavorano dentro la cellula."
+    },
+    {
+      "topic": "cellule",
+      "page": 9,
+      "question": "Come sono le cellule epiteliali? Che cosa fa il tessuto epiteliale?",
+      "answer": "Sono <b>piatte</b> e <b>strettamente unite</b> tra loro.<br>Il tessuto epiteliale <b>riveste e protegge</b> l'esterno del corpo e gli organi interni.",
+      "explanation": "La pelle è fatta di tessuto epiteliale: le cellule stanno strette strette, come le piastrelle di un pavimento, per proteggerci."
+    },
+    {
+      "topic": "cellule",
+      "page": 9,
+      "question": "Come sono le cellule nervose? Che cosa forma il tessuto nervoso?",
+      "answer": "Hanno dei <b>filamenti</b> che le collegano e <b>trasportano i messaggi</b> da una cellula all'altra.<br>Il tessuto nervoso forma <b>nervi, cervello</b> e <b>midollo spinale</b>.",
+      "explanation": "Le cellule nervose sembrano stelle con tanti fili. Lungo quei fili i messaggi corrono velocissimi, per esempio dal dito al cervello quando tocchi qualcosa di caldo."
+    },
+    {
+      "topic": "cellule",
+      "page": 9,
+      "question": "Come sono le cellule muscolari? Dove si trova il tessuto muscolare?",
+      "answer": "Hanno <b>forma allungata</b> e possono <b>contrarsi</b>.<br>Il tessuto muscolare forma i <b>muscoli esterni</b>, ma anche il <b>cuore</b> e parti di <b>stomaco</b> e <b>intestino</b>.",
+      "explanation": "Contrarsi vuol dire accorciarsi e tirare. Quando tante cellule muscolari si accorciano insieme, il muscolo si muove."
+    },
+    {
+      "topic": "cellule",
+      "page": 9,
+      "question": "Come sono le cellule ossee?",
+      "answer": "Sono <b>tondeggianti</b> e si <b>collegano</b> tra loro per essere più <b>resistenti</b>. Il tessuto osseo è un tipo di <b>tessuto connettivo</b>.",
+      "explanation": "L'osso visto da vicinissimo sembra una spugna! Tutti quei collegamenti lo rendono leggero ma molto resistente."
+    },
+    {
+      "topic": "cellule",
+      "page": 9,
+      "question": "Che cosa forma il tessuto connettivo?",
+      "answer": "<b>Ossa, tendini, cartilagini, legamenti, sangue</b> e <b>grasso</b>.",
+      "explanation": "Connettivo viene da “connettere”, cioè collegare: questo tessuto tiene insieme e sostiene le altre parti del corpo. Sorpresa: anche il sangue è tessuto connettivo!"
+    },
+    {
+      "topic": "cellule",
+      "page": 9,
+      "question": "Metti in ordine dal più piccolo al più grande: organo, cellula, apparato, tessuto.",
+      "answer": "<b>Cellula → tessuto → organo → apparato</b>.",
+      "explanation": "Un esempio: tante cellule formano il tessuto, i tessuti formano lo stomaco (un organo), e lo stomaco fa parte dell'apparato digerente."
+    }
+  ]
+}

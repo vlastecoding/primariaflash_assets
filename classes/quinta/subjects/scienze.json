@@ -1,0 +1,15 @@
+{
+  "id": "scienze",
+  "name": "Scienze",
+  "book": "Dal libro di Scienze e Tecnologia di 5ª.",
+  "blurb": "Il corpo umano: apparati, organi, tessuti e cellule.",
+  "unit": {
+    "singular": "argomento",
+    "plural": "argomenti"
+  },
+  "color": "sci",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M24 8h16M27 8v16L12 50a4 4 0 0 0 3.5 6h33a4 4 0 0 0 3.5-6L37 24V8\"/><path d=\"M18 40h28\"/><circle cx=\"28\" cy=\"47\" r=\"2\" fill=\"currentColor\"/><circle cx=\"36\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/></svg>",
+  "decks": [
+    "corpo"
+  ]
+}
