@@ -1,0 +1,284 @@
+{
+  "id": "digerente",
+  "name": "L'apparato digerente",
+  "pages": "10–13",
+  "blurb": "Gli organi, i denti, il viaggio del cibo e le sostanze nutritive.",
+  "color": "egeo",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 8c-7 0-11 5-11 12 0 8 4 12 5 20 1 7 3 16 8 16s5-14 10-14 5 14 10 14 7-9 8-16c1-8 5-12 5-20 0-7-4-12-11-12-5 0-7 3-12 3S25 8 20 8z\"/><path d=\"M20 18c3 0 6 1 8 3\"/></svg>",
+  "topics": [
+    {
+      "id": "funzione",
+      "name": "La funzione"
+    },
+    {
+      "id": "organi",
+      "name": "Gli organi"
+    },
+    {
+      "id": "denti",
+      "name": "I denti"
+    },
+    {
+      "id": "digestione",
+      "name": "La digestione"
+    },
+    {
+      "id": "nutrienti",
+      "name": "Le sostanze nutritive"
+    }
+  ],
+  "cards": [
+    {
+      "topic": "funzione",
+      "page": 10,
+      "question": "A che cosa serve l'apparato digerente?",
+      "answer": "A <b>trasformare i cibi</b> in <b>sostanze nutritive</b>.",
+      "explanation": "Il cibo che mangi, così com'è, il corpo non lo può usare. L'apparato digerente lo smonta in pezzettini piccolissimi, le sostanze nutritive, che il corpo invece può usare."
+    },
+    {
+      "topic": "funzione",
+      "page": 10,
+      "question": "Il cibo serve per due scopi importanti. Quali?",
+      "answer": "Dà il <b>materiale</b> per crescere e <b>formare nuove cellule</b>.<br>Dà l'<b>energia</b> per le funzioni vitali.",
+      "explanation": "Il cibo è come i mattoni e la benzina insieme: i mattoni servono a costruire nuove cellule, la benzina a far funzionare il corpo. Senza cibo non potresti né crescere né muoverti."
+    },
+    {
+      "topic": "funzione",
+      "page": 10,
+      "question": "Dove vanno a finire le sostanze nutritive ricavate dal cibo?",
+      "answer": "Passano nel <b>sangue</b>, che le <b>porta in tutto il corpo</b>.",
+      "explanation": "Il sangue fa da corriere: consegna le sostanze nutritive a ogni parte del corpo, dalla testa ai piedi. Così tutte le cellule ricevono quello che serve loro."
+    },
+    {
+      "topic": "organi",
+      "page": 10,
+      "question": "Quali organi attraversa il cibo, in ordine?",
+      "answer": "<ol><li><b>Bocca</b></li><li><b>Faringe</b></li><li><b>Esofago</b></li><li><b>Stomaco</b></li><li><b>Intestino</b></li></ol>",
+      "explanation": "Questi organi sono collegati uno dopo l'altro, come le tappe di una strada. Per ricordare l'ordine B-F-E-S-I prova con la frase: \"Bruno Fa Esercizi Sempre Insieme\"."
+    },
+    {
+      "topic": "organi",
+      "page": 10,
+      "question": "Quali sono le due parti dell'intestino?",
+      "answer": "L'<b>intestino tenue</b> e l'<b>intestino crasso</b>.",
+      "explanation": "Il cibo passa prima nel tenue e poi nel crasso. Tenue vuol dire sottile e crasso vuol dire grosso: il tenue è più stretto, il crasso più largo."
+    },
+    {
+      "topic": "organi",
+      "page": 10,
+      "question": "Quali organi producono sostanze che finiscono nell'intestino?",
+      "answer": "Il <b>fegato</b> e il <b>pancreas</b>.",
+      "explanation": "Il cibo non passa dentro il fegato e il pancreas, ma questi organi aiutano lo stesso: mandano nell'intestino delle sostanze che finiscono di trasformare il cibo."
+    },
+    {
+      "topic": "organi",
+      "page": 10,
+      "question": "In quale organo le sostanze nutritive passano nel sangue?",
+      "answer": "Nell'<b>intestino</b>: attraversano le sue <b>pareti</b> ed entrano nel sangue.",
+      "explanation": "L'intestino è l'ultima tappa del viaggio del cibo. È lì che le sostanze utili lasciano la \"strada\" del cibo ed entrano nel sangue."
+    },
+    {
+      "topic": "organi",
+      "page": 10,
+      "question": "Come vengono eliminate le sostanze di scarto?",
+      "answer": "Con le <b>feci</b>.",
+      "explanation": "Non tutto quello che mangi serve al corpo. Quello che non serve viene buttato fuori, come la spazzatura che si porta fuori di casa."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Dove avviene la prima fase della digestione?",
+      "answer": "In <b>bocca</b>.",
+      "explanation": "La digestione non comincia nello stomaco, ma appena metti il cibo in bocca. Per questo è importante masticare bene: aiuti tutto il resto del viaggio."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "A che cosa servono i denti?",
+      "answer": "A <b>triturare il cibo</b> e ridurlo in <b>pezzi piccoli</b>, così lo stomaco lavora più facilmente.",
+      "explanation": "Pensa a un pezzo di pane intero e allo stesso pane sbriciolato: le briciole si sciolgono molto più in fretta. I denti preparano il lavoro per lo stomaco."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Come si chiama la prima dentatura e quanti denti ha?",
+      "answer": "Si chiama dentatura <b>da latte</b> e ha <b>20 denti</b>.",
+      "explanation": "Tutti nascono senza denti: quelli da latte spuntano nei primi anni di vita. Sono i denti dei bambini piccoli."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Quando cominciano a cadere i denti da latte?",
+      "answer": "Verso i <b>6–7 anni</b>.",
+      "explanation": "Quando un dente da latte cade, al suo posto ne cresce uno nuovo, più grande e più forte. Forse è successo anche a te!"
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Da quanti e quali denti è formata la dentatura permanente?",
+      "answer": "Da <b>32 denti</b>: <b>8 incisivi</b>, <b>4 canini</b>, <b>8 premolari</b> e <b>12 molari</b>.",
+      "explanation": "Si chiama permanente perché questi denti restano per tutta la vita: se ne perdi uno, non ricresce. Ecco perché vanno lavati bene ogni giorno."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Che forma hanno gli incisivi e a che cosa servono?",
+      "answer": "Hanno la forma di uno <b>scalpello</b> e servono per <b>mordere e tagliare</b> il cibo.",
+      "explanation": "Lo scalpello è un attrezzo con la punta piatta e tagliente. Gli incisivi sono i denti davanti, quelli che usi per primi quando dai un morso."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Che forma hanno i canini e a che cosa servono?",
+      "answer": "Sono <b>appuntiti</b> e servono per <b>strappare</b> il cibo.",
+      "explanation": "I canini sono i denti a punta, ai lati degli incisivi. Si chiamano così perché sono molto grandi nei cani, che li usano per strappare la carne."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Che forma hanno premolari e molari e a che cosa servono?",
+      "answer": "Sono <b>appiattiti, grandi e larghi</b> e servono per <b>triturare e macinare</b> il cibo.",
+      "explanation": "Sono i denti in fondo alla bocca e funzionano come le macine di un mulino: schiacciano il cibo fino a ridurlo in una pappa."
+    },
+    {
+      "topic": "denti",
+      "page": 11,
+      "question": "Con quali denti dai il primo morso a una mela?",
+      "answer": "Con gli <b>incisivi</b>.",
+      "explanation": "Gli incisivi sono davanti e tagliano come uno scalpello. Poi il pezzo di mela passa a premolari e molari, che lo macinano."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cosa succede al cibo in bocca?",
+      "answer": "I <b>denti</b> lo masticano, le <b>ghiandole salivari</b> producono la <b>saliva</b> e la lingua lo impasta: diventa il <b>bolo</b>.",
+      "explanation": "In bocca lavora una squadra: i denti tagliano, la saliva bagna e la lingua mescola. Alla fine il cibo è una pallina morbida, facile da mandare giù."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cos'è il bolo?",
+      "answer": "Il cibo <b>masticato e impastato</b> con la <b>saliva</b>, pronto per essere inghiottito.",
+      "explanation": "Bolo è il nome che prende il cibo quando esce dalla bocca. Nel suo viaggio il cibo cambia nome più volte, perché cambia aspetto."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cos'è l'epiglottide e a che cosa serve?",
+      "answer": "È una <b>piccola valvola</b> che impedisce al cibo di entrare nelle <b>vie respiratorie</b>.",
+      "explanation": "Dalla gola partono due strade: una per il cibo e una per l'aria. L'epiglottide è come un coperchio che, quando inghiotti, chiude la strada dell'aria. Se qualcosa \"va di traverso\", ti viene da tossire per liberarla."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che strada fa il bolo dopo la bocca?",
+      "answer": "La lingua lo spinge nella <b>faringe</b>, poi passa nell'<b>esofago</b> e arriva nello <b>stomaco</b>.",
+      "explanation": "L'esofago è un tubo che collega la gola allo stomaco. Il bolo scende lungo questo tubo fino allo stomaco."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cosa succede al cibo nello stomaco?",
+      "answer": "Viene impastato con i <b>succhi gastrici</b>, che lo trasformano in una poltiglia: il <b>chimo</b>.",
+      "explanation": "Gastrico vuol dire \"dello stomaco\". Lo stomaco rimescola il cibo con i suoi succhi, un po' come una lavatrice che gira, finché diventa una pappa."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Quali sostanze arrivano nell'intestino per completare la digestione? Chi le produce?",
+      "answer": "La <b>bile</b>, prodotta dal <b>fegato</b>, e il <b>succo pancreatico</b>, prodotto dal <b>pancreas</b>.",
+      "explanation": "Pancreatico vuol dire \"del pancreas\". Queste due sostanze finiscono di smontare il cibo, così diventa abbastanza piccolo da passare nel sangue."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cos'è il chilo?",
+      "answer": "Il cibo diventato <b>quasi liquido</b>, con le sostanze nutritive ormai in parti <b>assimilabili</b>.",
+      "explanation": "Assimilabile vuol dire che il corpo lo può assorbire e usare. Il chilo si forma nell'intestino, dopo che bile e succo pancreatico hanno fatto il loro lavoro."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Bolo, chimo, chilo: dove si forma ciascuno?",
+      "answer": "Il <b>bolo</b> in <b>bocca</b>, il <b>chimo</b> nello <b>stomaco</b>, il <b>chilo</b> nell'<b>intestino</b>.",
+      "explanation": "Un trucco: chiMo ha la M come stoMaco, chiLo ha la L come Liquido, perché il chilo è quasi liquido. E il bolo viene per primo, come la B viene prima della C."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cosa sono i villi intestinali e a che cosa servono?",
+      "answer": "Sono <b>sporgenze</b> dell'<b>intestino tenue</b>, ricche di <b>capillari</b>: da lì le sostanze nutritive <b>entrano nel sangue</b>.",
+      "explanation": "Immagina la parete dell'intestino coperta di tantissime piccole dita, come la spugna di un asciugamano. Sono i villi: la loro superficie è enorme e così assorbono moltissime sostanze nutritive."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cosa sono i capillari?",
+      "answer": "Sono i <b>piccoli canali</b> in cui scorre il <b>sangue</b>.",
+      "explanation": "Capillare viene da \"capello\": sono vasi sottilissimi, come dei capelli. Arrivano dappertutto nel corpo, anche dentro i villi intestinali."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che cosa succede nell'intestino crasso?",
+      "answer": "Vengono <b>assorbiti</b> l'<b>acqua</b> e i <b>sali minerali</b> rimasti.",
+      "explanation": "Nell'intestino tenue il corpo ha già preso le sostanze nutritive. Nel crasso recupera anche l'acqua e i sali minerali, per non sprecare niente."
+    },
+    {
+      "topic": "digestione",
+      "page": 12,
+      "question": "Che fine fa ciò che il corpo non usa?",
+      "answer": "Viene <b>espulso</b> attraverso l'<b>ano</b> sotto forma di <b>feci</b>.",
+      "explanation": "L'ano è l'ultima parte dell'apparato digerente, la porta d'uscita. Lì finisce il lungo viaggio del cibo, cominciato in bocca."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Perché è importante mangiare cibi diversi?",
+      "answer": "Perché contengono <b>sostanze nutritive differenti</b>, ognuna con una <b>funzione specifica</b>: tutte servono per un'alimentazione <b>equilibrata</b>.",
+      "explanation": "Nessun cibo da solo ti dà tutto quello che serve. È come una squadra di calcio: servono il portiere, i difensori e gli attaccanti, non undici portieri."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Quali sono i tre gruppi di sostanze nutritive e che funzione hanno?",
+      "answer": "<b>Carboidrati e grassi</b>: funzione <b>energetica</b>.<br><b>Vitamine e sali minerali</b>: funzione <b>protettiva</b>.<br><b>Proteine</b>: funzione <b>costruttiva</b>.",
+      "explanation": "Energia, protezione e costruzione: sono le tre cose di cui il corpo ha bisogno. Prova a ricordarle con le iniziali E-P-C."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Che cosa sono i carboidrati e in quali cibi si trovano?",
+      "answer": "Sono gli <b>amidi</b> e gli <b>zuccheri</b>. Si trovano nei <b>cereali</b> e nei loro derivati, come <b>pasta</b> e <b>pane</b>.",
+      "explanation": "I cereali sono piante come il grano, il riso e il mais. Con la farina di grano si fanno pasta e pane, per questo sono ricchi di carboidrati."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Che funzione hanno carboidrati e grassi? Fai un esempio di grassi.",
+      "answer": "Hanno funzione <b>energetica</b>. Sono grassi l'<b>olio</b> e il <b>burro</b>.",
+      "explanation": "Energetica vuol dire che danno energia, come la benzina per un'auto. Servono soprattutto a chi fa una vita molto attiva, per esempio chi fa tanto sport."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Quali sostanze contengono frutta e verdura? Che funzione hanno?",
+      "answer": "<b>Vitamine</b> e <b>sali minerali</b>, che hanno funzione <b>protettiva</b>.",
+      "explanation": "Protettiva vuol dire che aiutano il corpo a regolare molte sue funzioni e lo difendono dalle malattie. Sono come le guardie del corpo."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Quali cibi sono ricchi di proteine?",
+      "answer": "<b>Carne</b>, <b>pesce</b>, <b>legumi</b>, <b>uova</b> e <b>latte</b>.",
+      "explanation": "I legumi sono i semi di alcune piante, come fagioli, ceci, lenticchie e piselli. Anche chi non mangia carne può trovare proteine nei legumi."
+    },
+    {
+      "topic": "nutrienti",
+      "page": 13,
+      "question": "Che funzione hanno le proteine?",
+      "answer": "Funzione <b>costruttiva</b>: danno le sostanze per formare <b>nuove cellule</b>.",
+      "explanation": "Le proteine sono i mattoni del corpo. Ti servono per crescere e per sostituire le cellule che si consumano, come quelle della pelle."
+    }
+  ]
+}
