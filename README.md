@@ -80,6 +80,31 @@ All classes, in the order shown in the app. A class with no subjects is shown as
 - `answer` and `explanation`: may contain simple HTML (`<b>`, `<br>`, `<ol><li>`).
 - `explanation` (shown by *Spiegamelo meglio*): written for children, and self-contained. Don't refer to photos, maps or pages of the book, because the app doesn't show them.
 
+#### Esposizione (optional)
+
+A deck can also help the child prepare an oral presentation (*esposizione*). For now only `cretesi` has it. When a deck has `exposition`, the app shows the **Flash card | Esposizione** switch and every topic with an `exposition` becomes a step-by-step exercise; `espongo` is reserved and can't be a topic id.
+
+```json
+"topics": [{
+  "id": "dove", "name": "Quando e dove",
+  "exposition": {
+    "connector": "Prima di tutto",
+    "summary": "dove e quando nasce la civiltà cretese, e come finisce.",
+    "model": "La civiltà cretese nasce attorno al <b>2500 a.C.</b> sull'isola di <b>Creta</b>. …",
+    "points": [{ "text": "Nasce nel 2500 a.C. sull'isola di Creta.", "keywords": "2500 a.C. · isola di Creta" }]
+  }
+}],
+"exposition": {
+  "intro": "Oggi vi parlo dei Cretesi, un popolo antico dell'isola di Creta.",
+  "outro": "Questi sono i Cretesi: un popolo pacifico di marinai e mercanti, padrone del mare per secoli."
+}
+```
+
+- `model`: how a good pupil would tell the topic, 60–90 words, short sentences, present tense, key words in `<b>`. Rephrased, never copied from the book.
+- `points`: the topic's key points **in the order they should be told** (the app shuffles them for *Riordina*). `text` is a short sentence (5–10 words), `keywords` the words that are left in step 4, separated by ` · `.
+- `connector` and `summary`: used for *Tutto il capitolo*, e.g. "Prima di tutto… Quando e dove. Racconta dove e quando nasce…". `summary` completes the sentence "Racconta …".
+- `intro` and `outro` (deck level): the opening and closing sentence of the whole chapter.
+
 ### Colors
 
 `color` is one of the app's theme colors, so it works in both light and dark mode: `porpora`, `egeo`, `cedro`, `sci`, `sto`, `mix`.

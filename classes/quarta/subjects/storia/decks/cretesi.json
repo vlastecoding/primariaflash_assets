@@ -8,25 +8,196 @@
   "topics": [
     {
       "id": "dove",
-      "name": "Quando e dove"
+      "name": "Quando e dove",
+      "exposition": {
+        "connector": "Prima di tutto",
+        "summary": "dove e quando nasce la civiltà cretese, e come finisce.",
+        "model": "La civiltà cretese nasce attorno al <b>2500 a.C.</b> sull'isola di <b>Creta</b>. Creta si trova al <b>centro del Mar Mediterraneo</b>, e questo aiuta i <b>commerci</b>. Per circa <b>600 anni</b> i Cretesi hanno la <b>flotta</b> più potente del mondo antico. Sono un popolo <b>pacifico</b>: le loro <b>città-palazzo</b> non hanno mura. Attorno al <b>1700 a.C.</b> un <b>terremoto</b> distrugge i palazzi, ma i Cretesi li ricostruiscono. Nel <b>1450 a.C.</b> la civiltà scompare per un altro terremoto o per un <b>maremoto</b>. Poi i <b>Micenei</b>, guerrieri venuti dalla Grecia, conquistano l'isola.",
+        "points": [
+          {
+            "text": "Nasce nel 2500 a.C. sull'isola di Creta.",
+            "keywords": "2500 a.C. · isola di Creta"
+          },
+          {
+            "text": "Creta è al centro del Mediterraneo: questo aiuta i commerci.",
+            "keywords": "centro del Mediterraneo · commerci"
+          },
+          {
+            "text": "Per 600 anni ha la flotta più potente.",
+            "keywords": "600 anni · flotta"
+          },
+          {
+            "text": "È un popolo pacifico: le città-palazzo non hanno mura.",
+            "keywords": "pacifico · città-palazzo · senza mura"
+          },
+          {
+            "text": "Nel 1700 a.C. un terremoto distrugge i palazzi.",
+            "keywords": "1700 a.C. · terremoto · ricostruiti"
+          },
+          {
+            "text": "Nel 1450 a.C. un terremoto o un maremoto la fa scomparire.",
+            "keywords": "1450 a.C. · terremoto o maremoto"
+          },
+          {
+            "text": "Poi i Micenei, guerrieri della Grecia, conquistano Creta.",
+            "keywords": "Micenei · Grecia"
+          }
+        ]
+      }
     },
     {
       "id": "attivita",
-      "name": "Attività e commercio"
+      "name": "Attività e commercio",
+      "exposition": {
+        "connector": "Poi",
+        "summary": "che cosa fanno: agricoltura, artigianato e commercio sul mare.",
+        "model": "Creta ha molte montagne, ma il <b>clima mite</b> e le <b>valli fertili</b> aiutano l'agricoltura. I Cretesi coltivano <b>cereali, viti e ulivi</b>. Allevano <b>pecore e capre</b> e vanno a <b>pesca</b>. Molti sono <b>artigiani</b>: fanno vasi decorati, gioielli, tessuti e oggetti in <b>bronzo</b>. I Cretesi sono soprattutto <b>mercanti</b> e abili <b>marinai</b>. Con le loro navi vendono <b>vino, olio, lana, ceramiche e armi</b>. In cambio portano a Creta quello che sull'isola manca: <b>lino, cotone e metalli</b> come stagno e rame.",
+        "points": [
+          {
+            "text": "Il clima mite e le valli fertili aiutano l'agricoltura.",
+            "keywords": "clima mite · valli fertili"
+          },
+          {
+            "text": "Coltivano cereali, viti e ulivi.",
+            "keywords": "cereali · viti · ulivi"
+          },
+          {
+            "text": "Allevano pecore e capre e vanno a pesca.",
+            "keywords": "pecore · capre · pesca"
+          },
+          {
+            "text": "Gli artigiani fanno vasi, gioielli, tessuti e oggetti in bronzo.",
+            "keywords": "artigianato · vasi · gioielli · bronzo"
+          },
+          {
+            "text": "Sono mercanti e abili marinai.",
+            "keywords": "mercanti · marinai"
+          },
+          {
+            "text": "Vendono vino, olio, lana, ceramiche e armi.",
+            "keywords": "vendono: vino · olio · lana · ceramiche · armi"
+          },
+          {
+            "text": "Comprano quello che manca: lino, cotone e metalli.",
+            "keywords": "comprano: lino · cotone · metalli"
+          }
+        ]
+      }
     },
     {
       "id": "societa",
-      "name": "Società e scrittura"
+      "name": "Società e scrittura",
+      "exposition": {
+        "connector": "Dopo",
+        "summary": "com'è organizzata la società e come scrivono.",
+        "model": "A capo di ogni città c'è il <b>re</b>, che ha un <b>potere assoluto</b>. Lo aiutano i <b>funzionari</b> e i <b>sacerdoti</b>. Il resto del popolo è fatto di artigiani, contadini, pastori, pescatori e marinai: tutti pagano i <b>tributi</b>. Gli <b>schiavi</b> fanno i lavori più faticosi, come remare sulle navi. Le <b>donne</b> sono rispettate e hanno una certa libertà. Per scrivere, all'inizio i Cretesi usano i <b>geroglifici</b>. Poi inventano una scrittura più semplice, con circa 80 segni: la <b>Lineare A</b>. Ancora oggi nessuno è riuscito a leggerla.",
+        "points": [
+          {
+            "text": "A capo di ogni città c'è il re, con potere assoluto.",
+            "keywords": "re · potere assoluto"
+          },
+          {
+            "text": "Il re è aiutato da funzionari e sacerdoti.",
+            "keywords": "funzionari · sacerdoti"
+          },
+          {
+            "text": "Il popolo lavora e paga i tributi.",
+            "keywords": "artigiani · contadini · pastori · tributi"
+          },
+          {
+            "text": "Gli schiavi fanno i lavori più faticosi.",
+            "keywords": "schiavi · lavori faticosi"
+          },
+          {
+            "text": "Le donne sono rispettate e abbastanza libere.",
+            "keywords": "donne · rispetto · libertà"
+          },
+          {
+            "text": "Prima scrivono con i geroglifici, poi con la Lineare A.",
+            "keywords": "geroglifici · Lineare A · 80 segni"
+          },
+          {
+            "text": "La Lineare A non è ancora stata decifrata.",
+            "keywords": "non decifrata"
+          }
+        ]
+      }
     },
     {
       "id": "religione",
-      "name": "La religione"
+      "name": "La religione",
+      "exposition": {
+        "connector": "Inoltre",
+        "summary": "in che cosa credono: il toro e la Dea Madre.",
+        "model": "I Cretesi sono <b>politeisti</b>: credono in molti dei. Adorano la natura e gli animali, soprattutto il <b>toro</b>, simbolo di <b>forza</b>. La dea più importante è la <b>Dea Madre</b>: protegge la terra, le piante e la vita, e i suoi simboli sono i <b>serpenti</b>. I riti si fanno <b>all'aperto</b>: nei cortili dei palazzi, sulle montagne o nelle grotte. Li guidano <b>sacerdoti e sacerdotesse</b>. Durante le feste c'è il <b>Salto del toro</b>: ragazze e ragazzi fanno un'acrobazia sul toro per diventare adulti.",
+        "points": [
+          {
+            "text": "Sono politeisti: adorano la natura e gli animali.",
+            "keywords": "politeisti · natura · animali"
+          },
+          {
+            "text": "L'animale sacro è il toro, simbolo di forza.",
+            "keywords": "toro · forza"
+          },
+          {
+            "text": "La dea più importante è la Dea Madre, con i serpenti.",
+            "keywords": "Dea Madre · serpenti"
+          },
+          {
+            "text": "I riti si fanno all'aperto: cortili, montagne, grotte.",
+            "keywords": "all'aperto · cortili · montagne · grotte"
+          },
+          {
+            "text": "Sacerdoti e sacerdotesse guidano i riti e le feste.",
+            "keywords": "sacerdoti · sacerdotesse · feste"
+          },
+          {
+            "text": "Il Salto del toro è una prova di coraggio per diventare adulti.",
+            "keywords": "Salto del toro · coraggio · adulti"
+          }
+        ]
+      }
     },
     {
       "id": "cnosso",
-      "name": "Il palazzo di Cnosso"
+      "name": "Il palazzo di Cnosso",
+      "exposition": {
+        "connector": "Infine",
+        "summary": "com'è fatto il palazzo di Cnosso, la città-palazzo più famosa.",
+        "model": "La città-palazzo più famosa è <b>Cnosso</b>. L'ha scoperta nel <b>1900</b> l'archeologo inglese <b>Arthur Evans</b>. Grazie a questa scoperta sappiamo molte cose sui Cretesi. La loro civiltà si chiama anche <b>minoica</b>, dal nome del leggendario re <b>Minosse</b>. Il palazzo è la casa del re e ha più di <b>1000 stanze</b>, con laboratori e magazzini. Gli edifici stanno intorno a un <b>grande cortile</b>, collegati da scale, porticati e corridoi. Nei magazzini ci sono i <b>pithoi</b>, grandi vasi per conservare i prodotti dei campi.",
+        "points": [
+          {
+            "text": "Cnosso è la città-palazzo più famosa.",
+            "keywords": "Cnosso · città-palazzo"
+          },
+          {
+            "text": "L'ha scoperta l'archeologo Arthur Evans nel 1900.",
+            "keywords": "Arthur Evans · 1900"
+          },
+          {
+            "text": "La civiltà si chiama anche minoica, dal re Minosse.",
+            "keywords": "minoica · re Minosse"
+          },
+          {
+            "text": "Il palazzo ha più di 1000 stanze, laboratori e magazzini.",
+            "keywords": "1000 stanze · laboratori · magazzini"
+          },
+          {
+            "text": "Gli edifici stanno intorno a un grande cortile.",
+            "keywords": "grande cortile · scale · porticati"
+          },
+          {
+            "text": "Nei magazzini i pithoi conservano i prodotti dei campi.",
+            "keywords": "pithoi · prodotti dei campi"
+          }
+        ]
+      }
     }
   ],
+  "exposition": {
+    "intro": "Oggi vi parlo dei Cretesi, un popolo antico dell'isola di Creta.",
+    "outro": "Questi sono i Cretesi: un popolo pacifico di marinai e mercanti, padrone del mare per secoli."
+  },
   "cards": [
     {
       "topic": "dove",
