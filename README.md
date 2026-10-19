@@ -15,7 +15,19 @@ For example, `GET /classes/quarta/subjects/storia/decks/fenici` is
 
 The plan is to replace this repository with a real backend serving the same resources. The app only needs a different base address.
 
-After a push, changes reach the site within about 10 minutes (GitHub Pages build plus browser cache). No deploy of the app is needed.
+After a change is merged into `main`, it reaches the site within about 10 minutes (GitHub Pages build plus browser cache). No deploy of the app is needed.
+
+## Content
+
+| Class | Subject | Source | Decks | Topics |
+|---|---|---|---|---|
+| 4ª | **Geografia** | 4th-grade textbook | I mari e le coste (40 cards) | I mari italiani · Le coste · Isole e arcipelaghi · Le attività · Il paesaggio marino |
+| | **Storia** | 4th-grade textbook | I Cretesi (53 cards) | Quando e dove · Attività e commercio · Società e scrittura · La religione · Il palazzo di Cnosso |
+| | | | I Fenici (58 cards) | Quando e dove · Le attività · Invenzioni · Società e religione · Empori e colonie · Le navi · La scrittura |
+| 5ª | **Scienze** | 5th-grade *Scienze e Tecnologia* textbook | Il corpo umano (29 cards) | Apparati e sistemi · Organi e tessuti · I tipi di cellule |
+| | | | L'apparato digerente (36 cards) | La funzione · Gli organi · I denti · La digestione · Le sostanze nutritive |
+
+Update this table in the same pull request that adds or changes a deck.
 
 ## Resources
 
@@ -91,4 +103,35 @@ All classes, in the order shown in the app. A class with no subjects is shown as
 - **A subject**: create `classes/{class}/subjects/{subject}.json` with at least one deck, and add its id to the class's `subjects` in `classes.json`.
 - **A class**: it's already in `classes.json`; giving it a subject makes it available.
 
-To preview changes before pushing, clone this repository inside the app's folder and run the app locally (see the app's README).
+## Contributing
+
+Changes reach `main` only through pull requests, which the repository owner reviews and merges.
+
+1. Work on a branch, e.g. `deck/quarta-geografia-mari`.
+2. Add or change the files as described above, and update the [Content](#content) table.
+3. Open a pull request against `main`. If you don't have write access, fork the repository first (`gh pr create` offers to do it).
+
+Never add the textbook PDFs or images of their pages: they are copyrighted, and the cards must always be written in your own words.
+
+### Making cards with Claude Code
+
+The repository includes a Claude Code skill, `.claude/skills/flashcard-primaria`, that turns pages of a textbook PDF into a deck: it reads the pages (also scanned ones), writes the cards following the rules for children, checks them, and opens the pull request once you approve. Open Claude Code in this folder and run, for example:
+
+```
+/flashcard-primaria dal libro ~/Downloads/geografia4.pdf, pagine 74–76
+```
+
+The skill needs Python 3 (it installs PyMuPDF in a temporary environment) and the GitHub CLI `gh`, logged in.
+
+### Previewing changes
+
+The app reads the content from a `primariaflash_assets` folder inside its own folder when it runs on `localhost`. To try your changes before opening the pull request, clone the app and this repository inside it:
+
+```bash
+git clone https://github.com/vlastecoding/primariaflash.git
+cd primariaflash
+git clone https://github.com/vlastecoding/primariaflash_assets.git   # or your fork
+python3 -m http.server   # then visit http://localhost:8000
+```
+
+Work inside `primariaflash/primariaflash_assets` (it's ignored by the app's git), and open e.g. `http://localhost:8000/#/quarta/geografia/mari`.

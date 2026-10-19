@@ -1,0 +1,5 @@
+.DS_Store
+# i libri e le immagini delle pagine non vanno mai nel repository (diritto d'autore)
+*.pdf
+*.png
+*.jpg
