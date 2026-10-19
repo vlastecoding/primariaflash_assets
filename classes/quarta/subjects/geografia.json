@@ -1,0 +1,15 @@
+{
+  "id": "geografia",
+  "name": "Geografia",
+  "book": "Dal libro di Geografia di 4ª.",
+  "blurb": "L'Italia e i suoi paesaggi: i mari e le coste.",
+  "unit": {
+    "singular": "argomento",
+    "plural": "argomenti"
+  },
+  "color": "cedro",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"32\" cy=\"32\" r=\"22\"/><path d=\"M10 32h44M32 10c-7 6-10 14-10 22s3 16 10 22M32 10c7 6 10 14 10 22s-3 16-10 22\"/></svg>",
+  "decks": [
+    "mari"
+  ]
+}

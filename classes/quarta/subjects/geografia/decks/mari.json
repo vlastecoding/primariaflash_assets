@@ -1,0 +1,297 @@
+{
+  "id": "mari",
+  "name": "I mari e le coste",
+  "pages": "74–76",
+  "blurb": "I quattro mari d'Italia, coste alte, basse e lagunari, isole e arcipelaghi, attività e paesaggio marino.",
+  "color": "egeo",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"46\" cy=\"16\" r=\"6\"/><path d=\"M30 10v26M30 12 18 34h12\"/><path d=\"M14 38h32l-5 7H19z\"/><path d=\"M6 52c4-3 8-3 12 0s8 3 12 0 8-3 12 0 8 3 12 0\"/></svg>",
+  "topics": [
+    { "id": "mari", "name": "I mari italiani" },
+    { "id": "coste", "name": "Le coste" },
+    { "id": "isole", "name": "Isole e arcipelaghi" },
+    { "id": "attivita", "name": "Le attività" },
+    { "id": "paesaggio", "name": "Il paesaggio marino" }
+  ],
+  "cards": [
+    {
+      "topic": "mari",
+      "page": 74,
+      "question": "Da quale mare è bagnata l'Italia?",
+      "answer": "Dal <b>Mar Mediterraneo</b>.",
+      "explanation": "L'Italia è una penisola: è circondata dal mare su tre lati e attaccata al resto dell'Europa solo a nord, dove ci sono le Alpi. Tutto il mare che la circonda fa parte del grande Mar Mediterraneo."
+    },
+    {
+      "topic": "mari",
+      "page": 74,
+      "question": "Quali nomi prende il Mar Mediterraneo intorno all'Italia?",
+      "answer": "<b>Mar Ligure</b>, <b>Mar Tirreno</b>, <b>Mar Ionio</b> e <b>Mare Adriatico</b>.",
+      "explanation": "È sempre lo stesso mare, ma in ogni zona ha un nome diverso. Per ricordarli in ordine, girando intorno all'Italia da Genova fino a Venezia, usa la frase \"La Tigre Insegue l'Aquila\": Ligure, Tirreno, Ionio, Adriatico."
+    },
+    {
+      "topic": "mari",
+      "page": 74,
+      "question": "Qual è il mare più esteso tra i mari italiani?",
+      "answer": "Il <b>Mar Tirreno</b>.",
+      "explanation": "Esteso vuol dire grande, largo: il Tirreno occupa più spazio di tutti gli altri mari italiani. Bagna la costa occidentale della penisola, quella di Toscana, Lazio, Campania e Calabria, e arriva fino a Sicilia e Sardegna."
+    },
+    {
+      "topic": "mari",
+      "page": 74,
+      "question": "Com'è il Mar Ligure?",
+      "answer": "<b>Non molto esteso</b>, ma abbastanza <b>profondo</b> da permettere di costruire tanti <b>porti</b>.",
+      "explanation": "Le grandi navi hanno bisogno di acqua profonda per non toccare il fondo. Nel Mar Ligure l'acqua è profonda vicino alla costa, per questo ci sono molti porti, come quello di Genova."
+    },
+    {
+      "topic": "mari",
+      "page": 74,
+      "question": "Qual è il mare più profondo tra i mari italiani?",
+      "answer": "Il <b>Mar Ionio</b>.",
+      "explanation": "Lo Ionio si trova a sud-est, tra la punta dello \"stivale\" e la Grecia. Il suo fondale scende molto in basso: è il mare italiano più profondo."
+    },
+    {
+      "topic": "mari",
+      "page": 75,
+      "question": "Qual è il mare meno profondo tra i mari italiani?",
+      "answer": "Il <b>Mare Adriatico</b>.",
+      "explanation": "Se lo Ionio è come una piscina profondissima, l'Adriatico è come una vasca bassa. Ricorda la coppia: Ionio il più profondo, Adriatico il meno profondo."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Che cos'è la costa?",
+      "answer": "La <b>linea di confine</b> tra la <b>terra</b> e il <b>mare</b>.",
+      "explanation": "Dove finisce la terra e comincia il mare, lì c'è la costa. Può essere una spiaggia di sabbia, una scogliera alta o una laguna."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Quanti chilometri di coste ha l'Italia?",
+      "answer": "Circa <b>7500 chilometri</b>, dalle forme molto diverse.",
+      "explanation": "Sono tantissimi! Se camminassi lungo tutte le coste italiane facendo 20 chilometri al giorno, ci metteresti più di un anno."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Come sono le coste del Mar Ligure?",
+      "answer": "<b>Alte e rocciose</b>.",
+      "explanation": "In Liguria le montagne arrivano quasi fino al mare, così la costa è fatta di rocce e scogli che scendono ripidi nell'acqua."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Come sono le coste del Mar Tirreno?",
+      "answer": "Al <b>centro</b>: <b>basse e sabbiose</b>.<br>Al <b>sud</b>: per lo più <b>alte e frastagliate</b>.",
+      "explanation": "Frastagliata vuol dire piena di rientranze e sporgenze, come il bordo di un foglio strappato. Al centro invece la costa è bassa, con lunghe spiagge di sabbia."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Quali promontori interrompono le coste basse del Tirreno nel Centro Italia?",
+      "answer": "I promontori di <b>Piombino</b> e del <b>Circeo</b>.",
+      "explanation": "Un promontorio è un pezzo di terra alto che si spinge dentro il mare, come un naso che sporge dalla costa. Piombino è in Toscana, il Circeo nel Lazio."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Che cosa crea grotte e faraglioni lungo le coste?",
+      "answer": "Il <b>moto ondoso</b>, cioè il movimento delle onde.",
+      "explanation": "Le onde sbattono contro le rocce ogni giorno, per migliaia e migliaia di anni. Piano piano le consumano, come una goccia che scava la pietra: così nascono grotte e faraglioni."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Che cosa sono i faraglioni?",
+      "answer": "<b>Massi rocciosi</b> che si alzano dal mare davanti alle <b>coste frastagliate</b>, come quelli di <b>Capri</b>.",
+      "explanation": "Un tempo erano attaccati alla costa. Le onde hanno consumato la roccia intorno e sono rimasti in piedi da soli, come grandi torri di pietra in mezzo al mare."
+    },
+    {
+      "topic": "coste",
+      "page": 74,
+      "question": "Come sono le coste del Mar Ionio?",
+      "answer": "Per lo più <b>basse e sabbiose</b>; <b>alte e rocciose</b> dove gli <b>Appennini</b> arrivano vicino al mare.",
+      "explanation": "La regola è semplice: dove le montagne arrivano fino al mare la costa è alta e fatta di roccia; dove c'è pianura la costa è bassa, con spiagge di sabbia."
+    },
+    {
+      "topic": "coste",
+      "page": 75,
+      "question": "Come sono le coste del Mare Adriatico?",
+      "answer": "<b>Basse e sabbiose</b>, tranne i promontori del <b>Conero</b> (Marche) e del <b>Gargano</b> (Puglia).",
+      "explanation": "Lungo l'Adriatico ci sono lunghissime spiagge di sabbia, per esempio quelle della Romagna. Solo in due punti la costa si alza: il Conero, vicino ad Ancona, e il Gargano, lo \"sperone\" dello stivale."
+    },
+    {
+      "topic": "coste",
+      "page": 75,
+      "question": "Com'è la costa nella parte settentrionale (Alto) del Mare Adriatico?",
+      "answer": "<b>Bassa e lagunare</b>.",
+      "explanation": "Settentrionale vuol dire a nord. Lì, intorno a Venezia, la costa è bassa e piena di lagune."
+    },
+    {
+      "topic": "coste",
+      "page": 75,
+      "question": "Che cos'è una laguna?",
+      "answer": "Uno <b>specchio d'acqua salata</b> chiuso da <b>cordoni di sabbia</b>.",
+      "explanation": "Immagina un pezzo di mare separato dal mare aperto da lunghe strisce di sabbia, come un recinto. L'acqua resta salata e calma: è una laguna."
+    },
+    {
+      "topic": "coste",
+      "page": 75,
+      "question": "Quali sono le lagune più estese d'Italia?",
+      "answer": "La <b>Laguna veneta</b> e la laguna di <b>Grado</b>.",
+      "explanation": "La Laguna veneta è formata da tre lagune vicine: quella di Venezia, quella di Chioggia e quella di Malamocco. Venezia è proprio costruita in mezzo alla laguna. Grado invece si trova in Friuli-Venezia Giulia."
+    },
+    {
+      "topic": "coste",
+      "page": 75,
+      "question": "Qual è il tipo di costa più diffuso in Italia?",
+      "answer": "La costa <b>bassa e sabbiosa</b>.",
+      "explanation": "Pensa ai mari: Tirreno al centro, Ionio e quasi tutto l'Adriatico hanno coste basse e sabbiose. Per questo in Italia ci sono così tante spiagge."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "Quali sono le due isole maggiori del Mediterraneo?",
+      "answer": "La <b>Sicilia</b> e la <b>Sardegna</b>.",
+      "explanation": "Sono le isole più grandi di tutto il Mar Mediterraneo, e sono tutte e due italiane. La più grande è la Sicilia, subito dopo viene la Sardegna."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "Che cos'è un arcipelago?",
+      "answer": "Un gruppo di <b>più isole vicine</b> tra loro.",
+      "explanation": "Un'isola da sola è un'isola; tante isole vicine, come una famiglia, formano un arcipelago."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "Quali arcipelaghi e gruppi di isole si trovano nel Mar Tirreno?",
+      "answer": "<ol><li><b>Arcipelago Toscano</b></li><li><b>Isole Ponziane</b></li><li><b>Arcipelago Campano</b></li><li><b>Isole Eolie</b></li><li><b>Isole Egadi</b></li></ol>",
+      "explanation": "Vanno da nord a sud: il Toscano vicino alla Toscana, le Ponziane vicino al Lazio, il Campano davanti a Napoli (con Capri e Ischia), le Eolie a nord della Sicilia e le Egadi a ovest della Sicilia, vicino a Trapani."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "Qual è l'isola più grande dell'Arcipelago Toscano?",
+      "answer": "L'<b>Isola d'Elba</b>.",
+      "explanation": "L'Elba si trova davanti a Piombino, in Toscana. È la più grande dell'arcipelago, che comprende anche isole più piccole come il Giglio e Capraia."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "A quale arcipelago appartiene l'isola di Ventotene?",
+      "answer": "Alle <b>Isole Ponziane</b>.",
+      "explanation": "Le Isole Ponziane si trovano nel Mar Tirreno, davanti alla costa del Lazio. Ventotene è una di queste piccole isole."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "Quali isole si trovano lungo le coste della Sardegna?",
+      "answer": "L'<b>arcipelago della Maddalena</b> e le isole dell'<b>Asinara</b> e di <b>Sant'Antioco</b>.",
+      "explanation": "La Maddalena e l'Asinara sono nel nord della Sardegna, Sant'Antioco nel sud-ovest. Anche le grandi isole hanno intorno le loro isole più piccole."
+    },
+    {
+      "topic": "isole",
+      "page": 75,
+      "question": "Qual è l'unico arcipelago del Mare Adriatico?",
+      "answer": "Le <b>Isole Tremiti</b>.",
+      "explanation": "Le coste italiane dell'Adriatico hanno pochissime isole. Le Tremiti si trovano davanti al Gargano, in Puglia, e sono l'unico arcipelago di questo mare."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Qual è l'attività economica più importante delle zone costiere?",
+      "answer": "Il <b>turismo</b>.",
+      "explanation": "D'estate tantissime persone vanno al mare in vacanza. Lavorano per loro alberghi, ristoranti, stabilimenti balneari e negozi: per questo il turismo è così importante sulle coste."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Come hanno modificato le coste gli esseri umani per accogliere i turisti?",
+      "answer": "Costruendo <b>abitazioni</b>, <b>alberghi</b>, <b>stabilimenti balneari</b> e <b>ristoranti</b>.",
+      "explanation": "Dove prima c'erano solo spiaggia e piante, oggi ci sono case, hotel e lidi con ombrelloni. L'ambiente naturale è cambiato per far posto alle persone in vacanza."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Oltre al turismo, quale altra attività importante si fa sul mare?",
+      "answer": "La <b>pesca</b>.",
+      "explanation": "I pescatori escono in mare con i pescherecci, le barche da pesca, e portano a terra pesce fresco da vendere."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Che cos'è l'acquacoltura e dove è diffusa?",
+      "answer": "L'<b>allevamento di pesci e molluschi</b> in grandi <b>vasche artificiali</b> nel mare. È diffusa nei mari <b>meno pescosi</b>.",
+      "explanation": "La parola unisce acqua e coltura, cioè coltivare. Dove nel mare ci sono pochi pesci, le persone li allevano in vasche, un po' come un contadino alleva gli animali nella fattoria."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Perché il mare è un'importante via di comunicazione?",
+      "answer": "Perché lungo le coste sono nati i <b>porti</b> per <b>passeggeri</b> e <b>merci</b>.",
+      "explanation": "Il mare è come una grande strada d'acqua: navi e traghetti portano persone e merci da un porto all'altro, anche verso le isole e i paesi lontani."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Quali industrie si trovano lungo le coste?",
+      "answer": "Le <b>raffinerie</b>, che lavorano il <b>petrolio</b>, e i <b>cantieri navali</b>, che costruiscono e riparano le <b>navi</b>.",
+      "explanation": "Il petrolio arriva spesso con le navi, quindi conviene lavorarlo vicino ai porti. Anche le navi, ovviamente, si costruiscono e si aggiustano vicino all'acqua."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Che cosa si coltiva sui pendii che si affacciano sul mare?",
+      "answer": "<b>Viti</b>, <b>ulivi</b> e <b>agrumi</b>.",
+      "explanation": "Vicino al mare il clima è più mite, cioè non fa troppo freddo. Queste piante lo amano: dalla vite si fa il vino, dall'ulivo l'olio, e gli agrumi sono arance e limoni."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Che cosa sono le saline?",
+      "answer": "Grandi <b>vasche poco profonde</b> collegate con il <b>mare</b>, da cui si ricava il <b>sale</b>.",
+      "explanation": "Nelle saline entra l'acqua del mare. Siccome le vasche sono basse, il sole riesce a scaldare bene l'acqua."
+    },
+    {
+      "topic": "attivita",
+      "page": 76,
+      "question": "Come si ottiene il sale nelle saline?",
+      "answer": "L'acqua del mare <b>evapora</b> grazie al <b>sole</b> e al <b>vento</b> e, dopo vari passaggi, lascia il <b>sale</b> sul fondo.",
+      "explanation": "Se lasci al sole un bicchiere d'acqua salata, piano piano l'acqua sparisce e resta il sale. Nelle saline succede la stessa cosa, ma in vasche enormi."
+    },
+    {
+      "topic": "paesaggio",
+      "page": 76,
+      "question": "Dove la vegetazione delle coste è più ricca e rigogliosa?",
+      "answer": "Sulle <b>coste settentrionali</b>, cioè al nord.",
+      "explanation": "Rigogliosa vuol dire piena di piante verdi che crescono bene. Al nord piove di più e la vegetazione è più fitta."
+    },
+    {
+      "topic": "paesaggio",
+      "page": 76,
+      "question": "Che cos'è la macchia mediterranea e dove si trova?",
+      "answer": "Una vegetazione di <b>cespugli</b>, <b>arbusti</b> e <b>alberi</b> diffusa sulle coste del <b>sud</b>.",
+      "explanation": "Si chiama macchia perché vista da lontano sembra una macchia verde e fitta sulle colline vicino al mare. Le sue piante resistono bene al caldo e alla poca pioggia."
+    },
+    {
+      "topic": "paesaggio",
+      "page": 76,
+      "question": "Quali piante formano la macchia mediterranea?",
+      "answer": "Cespugli e arbusti: <b>salvia</b>, <b>timo</b>, <b>lavanda</b>, <b>oleandro</b>.<br>Alberi: <b>quercia da sughero</b> e <b>pino marittimo</b>.",
+      "explanation": "Molte di queste piante hanno un profumo forte: salvia e timo si usano anche in cucina. Dalla corteccia della quercia da sughero si fanno i tappi delle bottiglie."
+    },
+    {
+      "topic": "paesaggio",
+      "page": 76,
+      "question": "Quali animali vivono lungo le coste italiane?",
+      "answer": "<b>Volpi</b> e <b>istrici</b>; uccelli marini come <b>gabbiani</b>, <b>aironi</b> e <b>fenicotteri</b>, che qui fanno il nido.",
+      "explanation": "L'istrice è un animale coperto di lunghi aculei. Gli uccelli marini vivono vicino all'acqua perché lì trovano il cibo, come pesci e piccoli animali."
+    },
+    {
+      "topic": "paesaggio",
+      "page": 76,
+      "question": "Quali animali vivono nelle acque del Mar Mediterraneo?",
+      "answer": "Pesci come <b>tonni</b>, <b>pescispada</b> e <b>triglie</b>, e poi <b>molluschi</b> e <b>crostacei</b>.",
+      "explanation": "Molluschi sono animali dal corpo molle, come cozze, vongole e polpi. Crostacei sono animali con una corazza dura, come gamberi e granchi."
+    }
+  ]
+}
