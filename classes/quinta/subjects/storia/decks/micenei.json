@@ -1,0 +1,435 @@
+{
+  "id": "micenei",
+  "name": "I Micenei",
+  "pages": "8–11",
+  "blurb": "Gli Achei nel Peloponneso, le città-stato, la società, le attività, gli dèi, la Lineare B e la fortezza di Micene.",
+  "color": "egeo",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6 56h52\"/><path d=\"M10 56V22M54 56V22\"/><path d=\"M18 32 32 12l14 20\"/><path d=\"M32 30V18M29 18h6\"/><path d=\"M14 32h36\"/><path d=\"M22 56V32M42 56V32\"/></svg>",
+  "topics": [
+    {
+      "id": "dove",
+      "name": "Quando e dove"
+    },
+    {
+      "id": "societa",
+      "name": "L'organizzazione sociale"
+    },
+    {
+      "id": "attivita",
+      "name": "Le attività"
+    },
+    {
+      "id": "religione",
+      "name": "La religione"
+    },
+    {
+      "id": "scrittura",
+      "name": "La scrittura"
+    },
+    {
+      "id": "micene",
+      "name": "La città di Micene"
+    }
+  ],
+  "cards": [
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Chi erano gli Achei?",
+      "answer": "Un <b>popolo nomade</b> arrivato dall'<b>Asia centrale</b>, che si stabilì in Grecia.",
+      "explanation": "Nomade vuol dire che non ha una casa fissa e si sposta di continuo. Gli Achei, a un certo punto, smisero di spostarsi e si fermarono in Grecia: sono loro che chiamiamo Micenei."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Quando e dove si stabilirono gli Achei?",
+      "answer": "Attorno al <b>2000 a.C.</b>, in <b>Grecia</b>, nella regione del <b>Peloponneso</b>.",
+      "explanation": "Il Peloponneso è la parte più a sud della Grecia: è come una grande foglia attaccata al resto del Paese da una striscia di terra sottile. Il 2000 a.C. è anche l'anno in cui nascono i Fenici."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Gli Achei fondarono un unico grande regno?",
+      "answer": "<b>No</b>: fondarono tante piccole <b>città-stato indipendenti</b>, spesso in <b>lotta</b> tra loro.",
+      "explanation": "Una città-stato è una città che si governa da sola, come un piccolo Paese, con il suo re e le sue leggi. Anche i Fenici erano divisi in città-stato. Quelle micenee, però, si facevano spesso la guerra."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Quali erano alcune città-stato micenee?",
+      "answer": "<b>Argo</b>, <b>Pilo</b>, <b>Tirinto</b>, <b>Sparta</b> e <b>Micene</b>.",
+      "explanation": "Per ricordarle prova con le iniziali: A, P, T, S, M. Una frase aiuta: «Arrivano Pirati Tra Sabbia e Mare». La più importante di tutte era Micene."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Perché questa civiltà si chiama micenea?",
+      "answer": "Dal nome di <b>Micene</b>, la città-stato <b>più importante</b>.",
+      "explanation": "Micene era la città più forte e famosa degli Achei. Per questo chiamiamo Micenei tutto il popolo e micenea la loro civiltà."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Quando i Micenei conquistarono Creta?",
+      "answer": "Intorno al <b>1450 a.C.</b>",
+      "explanation": "Ti ricordi dei Cretesi? Dopo un grande disastro erano rimasti deboli, e i Micenei, che erano guerrieri, ne approfittarono per prendersi la loro isola."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Che cosa impararono i Micenei dai Cretesi?",
+      "answer": "La <b>scrittura</b>, l'<b>arte del commercio</b> e le <b>tecniche di navigazione</b>.",
+      "explanation": "I Micenei vinsero i Cretesi con le armi, ma poi diventarono un po' loro allievi. I Cretesi erano maestri del mare e del commercio, e i Micenei copiarono quello che sapevano fare."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Fin dove arrivarono i Micenei con le loro navi?",
+      "answer": "Sulle coste dell'<b>Anatolia</b>, dell'<b>Italia meridionale</b> e della <b>Spagna</b>, dove fondarono <b>colonie</b>.",
+      "explanation": "Una colonia è un nuovo insediamento fondato lontano da casa, come facevano anche i Fenici. Grazie a quello che avevano imparato dai Cretesi, i Micenei potevano navigare fino a terre lontane."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Contro chi combatterono lunghe guerre i Micenei?",
+      "answer": "Contro alcune città dell'<b>Anatolia</b>, fra cui <b>Troia</b>.",
+      "explanation": "L'Anatolia è la grande penisola dove oggi c'è la Turchia, dall'altra parte del Mar Egeo rispetto alla Grecia. Lì si trovava la città di Troia."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Perché Troia era così importante?",
+      "answer": "Era in una <b>posizione favorevole ai commerci</b> marittimi verso il <b>Mar Nero</b>.",
+      "explanation": "Troia era come un casello dell'autostrada: chi andava per mare verso il Mar Nero passava vicino a lei. Chi la controllava, controllava anche quei commerci."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Quando i Micenei conquistarono Troia?",
+      "answer": "Intorno al <b>1250 a.C.</b>",
+      "explanation": "Questa guerra è diventata famosissima grazie a un antico poema greco, l'Iliade. È la guerra della leggenda del cavallo di Troia, il gigantesco cavallo di legno con i soldati nascosti dentro."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Che cosa successe alla civiltà micenea a partire dal 1200 a.C.?",
+      "answer": "Iniziò la <b>decadenza</b>: i <b>commerci diminuirono</b> e molte città furono <b>distrutte dai Dori</b>.",
+      "explanation": "Dopo tante guerre i Micenei erano più deboli. I commerci calarono e arrivò un nuovo popolo, i Dori, che distrusse molte delle loro città."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Chi erano i Dori?",
+      "answer": "Un popolo proveniente dal <b>Nord Europa</b>, che distrusse molte città micenee.",
+      "explanation": "I Dori scesero verso la Grecia da nord. Le città micenee, ormai indebolite, non riuscirono a fermarli."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Che cosa vuol dire decadenza? Dimmi un sinonimo.",
+      "answer": "Perdita a poco a poco di <b>forza</b>, <b>potere</b> e <b>ricchezza</b>.<br>Sinonimi: <b>declino</b>, <b>rovina</b>.",
+      "explanation": "Decadenza viene da cadere: è come una persona che scivola giù da una scala un gradino alla volta. Il contrario è ascesa, cioè salire. Anche miglioramento è un contrario, non un sinonimo."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Metti in ordine le tappe della civiltà micenea.",
+      "answer": "<ol><li><b>2000 a.C.</b>: arrivo nel Peloponneso</li><li><b>1450 a.C.</b>: conquista di Creta</li><li><b>1250 a.C.</b>: conquista di Troia</li><li><b>1200 a.C.</b>: invasione dei Dori</li></ol>",
+      "explanation": "Negli anni avanti Cristo i numeri vanno all'indietro: più il numero è grande, più è antico. Per questo 2000 viene prima di 1450, e 1200 è la data più vicina a noi."
+    },
+    {
+      "topic": "dove",
+      "page": 8,
+      "question": "Che cosa vuol dire decorare a sbalzo?",
+      "answer": "Decorare un oggetto di metallo con figure <b>in rilievo</b>.",
+      "explanation": "Le figure escono un po' fuori dalla superficie, così puoi sentirle con le dita. I Micenei lo facevano anche su tazze d'oro, che poi mettevano nelle tombe dei principi."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Chi governava ogni città-stato micenea e come si chiamava?",
+      "answer": "Un <b>re</b>, chiamato <b>wanax</b>, che era anche <b>capo religioso</b>.",
+      "explanation": "Il wanax aveva due lavori insieme: comandava la città e guidava le cerimonie per gli dèi. Era la persona più importante di tutte."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Chi era il lawagetas?",
+      "answer": "Il <b>capo dell'esercito</b>, che stava accanto al re.",
+      "explanation": "I Micenei erano un popolo guerriero, quindi chi comandava i soldati era importantissimo. Il lawagetas aiutava il wanax: il re pensava a governare, lui pensava alla guerra."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Chi veniva subito dopo il re e il capo dell'esercito?",
+      "answer": "I <b>nobili</b>, i <b>guerrieri</b>, i <b>sacerdoti</b> e le <b>sacerdotesse</b>.",
+      "explanation": "Erano le persone ricche e potenti della città. I nobili e i guerrieri combattevano e comandavano, i sacerdoti e le sacerdotesse si occupavano degli dèi."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Come si chiamava il popolo e da chi era formato?",
+      "answer": "Si chiamava <b>damos</b>: contadini, artigiani, tessitori, costruttori di navi e fabbri.",
+      "explanation": "Il damos era la gente che lavorava con le mani. Dalla parola greca demos, molto simile, viene la nostra parola democrazia, cioè potere del popolo."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Dove viveva il popolo? Come si chiamavano questi luoghi?",
+      "answer": "Nei <b>damoi</b>, cioè i <b>villaggi</b> nelle campagne <b>fuori dalle mura</b>.",
+      "explanation": "Damos è il popolo, damoi sono i villaggi dove viveva: le due parole si somigliano, così è facile ricordarle. Dentro le mura stavano il re e i più potenti."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Chi poteva possedere le terre? Chi le coltivava?",
+      "answer": "Solo il <b>re</b>, i <b>nobili</b> e i <b>sacerdoti</b>.<br>Le affidavano ai <b>contadini</b> in cambio di <b>una parte del raccolto</b>.",
+      "explanation": "Il contadino lavorava un campo che non era suo. Alla fine dell'anno teneva una parte di quello che aveva raccolto e consegnava il resto al padrone della terra."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Chi erano i basilèus?",
+      "answer": "I <b>capi dei gruppi di famiglie</b> dei villaggi. Si riunivano in un <b>consiglio</b> per decidere le cose di interesse pubblico.",
+      "explanation": "Erano le persone più importanti del villaggio. Insieme decidevano le cose che riguardavano tutti, un po' come un consiglio comunale di oggi."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Chi erano gli schiavi micenei?",
+      "answer": "Di solito <b>prigionieri di guerra</b>, costretti ai <b>lavori più pesanti</b>.",
+      "explanation": "Gli schiavi non erano liberi: non potevano scegliere che cosa fare. I Micenei facevano molte guerre, e chi veniva catturato poteva diventare schiavo."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Com'era la vita delle donne micenee?",
+      "answer": "Erano <b>rispettate</b> e avevano una <b>certa libertà</b>: partecipavano alla <b>vita pubblica</b> e potevano lavorare come <b>tessitrici</b> e <b>distributrici di cereali</b>.",
+      "explanation": "In molti popoli antichi le donne potevano fare ben poco fuori casa. Le donne micenee, invece, avevano dei lavori e partecipavano alla vita della città."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Che cosa potevano fare le sacerdotesse micenee?",
+      "answer": "Spesso <b>possedevano</b> e <b>amministravano terreni</b>.",
+      "explanation": "Amministrare vuol dire gestire, cioè decidere come usare una cosa e tenerne i conti. Le sacerdotesse erano tra le persone che potevano avere delle terre tutte loro."
+    },
+    {
+      "topic": "societa",
+      "page": 9,
+      "question": "Metti in ordine la società micenea, dal più importante.",
+      "answer": "<ol><li><b>re</b> (wanax) e <b>capo dell'esercito</b> (lawagetas)</li><li><b>nobili</b>, <b>guerrieri</b>, <b>sacerdoti</b> e <b>sacerdotesse</b></li><li><b>popolo</b> (damos)</li><li><b>schiavi</b></li></ol>",
+      "explanation": "Immagina una piramide: in cima pochissime persone con tanto potere, in basso tante persone con poco o nessun potere. Gli schiavi stavano proprio alla base."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Perché il territorio dei Micenei non era adatto all'agricoltura?",
+      "answer": "Perché era <b>montuoso</b> e con <b>pochi corsi d'acqua</b>.",
+      "explanation": "Per coltivare servono terreni pianeggianti e tanta acqua. In Grecia ci sono molte montagne e pochi fiumi, quindi coltivare era difficile."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Che cosa coltivavano soprattutto i Micenei?",
+      "answer": "<b>Viti</b> e <b>ulivi</b>.",
+      "explanation": "Dalla vite nasce l'uva, che serve per fare il vino. Dall'ulivo nascono le olive, che servono per fare l'olio. Sono piante robuste, che crescono bene anche in collina con poca acqua."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Quali animali allevavano i pastori micenei?",
+      "answer": "<b>Cavalli</b>, <b>capre</b> e <b>pecore</b>.",
+      "explanation": "Le capre e le pecore davano latte e lana. I cavalli servivano anche per tirare i carri, che i Micenei usavano pure in guerra."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Che cosa ricavavano dalle pecore e dalle capre? Chi lo lavorava?",
+      "answer": "Una <b>lana pregiata</b>, lavorata con abilità dalle <b>tessitrici</b>.",
+      "explanation": "Pregiata vuol dire di grande valore. Le tessitrici la trasformavano in stoffe: un lavoro importante, fatto soprattutto dalle donne."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Quali materiali preziosi lavoravano gli artigiani micenei? Da chi avevano imparato?",
+      "answer": "<b>Oro</b>, <b>argento</b> e <b>avorio</b>, per fare gioielli raffinati.<br>Avevano imparato dagli <b>Egizi</b> e dai <b>Cretesi</b>.",
+      "explanation": "L'avorio è il materiale bianco e duro delle zanne degli elefanti. I Micenei non sapevano lavorare questi materiali da soli: hanno imparato guardando popoli più esperti."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Che cosa costruivano i Micenei con l'argilla?",
+      "answer": "<b>Vasi</b>, decorati con <b>tecniche innovative</b>.",
+      "explanation": "Innovativo vuol dire nuovo, mai usato prima. Su alcuni vasi dipingevano anche scene di guerra, con soldati che marciano con scudi, elmi e lance."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Come viaggiavano i mercanti micenei?",
+      "answer": "Per mare, su <b>navi agili</b> con la <b>vela quadrata</b>. Commerciavano con molti popoli del <b>Mediterraneo</b>.",
+      "explanation": "Agile vuol dire veloce e facile da guidare. La vela quadrata prendeva il vento e spingeva la nave sul mare."
+    },
+    {
+      "topic": "attivita",
+      "page": 9,
+      "question": "Quali metalli cercavano i Micenei e perché?",
+      "answer": "<b>Stagno</b> e <b>rame</b>, per ottenere il <b>bronzo</b>, con cui facevano le <b>armi</b>.",
+      "explanation": "Il bronzo è una lega: si fa fondendo insieme rame e stagno, ed è più duro di tutti e due. In cambio i Micenei davano i prodotti che avevano in abbondanza, come olio, vino e lana."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Che cosa vuol dire che i Micenei erano politeisti?",
+      "answer": "Che credevano in <b>molti dèi</b>.",
+      "explanation": "Politeista viene dal greco: poly vuol dire molti e theòs vuol dire dio. Quindi politeista = che crede in molti dèi."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Come si immaginavano gli dèi i Micenei?",
+      "answer": "Con un <b>aspetto umano</b> e con gli <b>stessi vizi e virtù</b> delle persone.",
+      "explanation": "Gli dèi micenei sembravano persone: potevano essere buoni e coraggiosi, ma anche gelosi o arrabbiati. La differenza è che erano molto più potenti e non morivano mai."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Chi erano Zeus ed Era?",
+      "answer": "Il <b>re</b> e la <b>regina</b> degli dèi e delle persone. Erano marito e moglie.",
+      "explanation": "Zeus era il capo di tutti gli dèi ed Era era sua moglie. Molti secoli dopo anche i Romani crederanno in questi dèi, ma li chiameranno con nomi diversi."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Chi erano Poseidone, Ares e Demetra?",
+      "answer": "<b>Poseidone</b>: dio del mare<br><b>Ares</b>: dio della guerra<br><b>Demetra</b>: dea dei raccolti",
+      "explanation": "Ogni dio si occupava di una cosa importante per i Micenei: il mare per navigare, la guerra per combattere, i raccolti per mangiare. Trucco: Poseidone ha la P di Pesci, Ares la A di Armi."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Dove costruivano i santuari per gli dèi i Micenei?",
+      "answer": "<b>Sulle montagne</b>.",
+      "explanation": "Un santuario è un luogo sacro dove si pregano gli dèi. Sulle montagne ci si sentiva più vicini al cielo, e quindi agli dèi."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Il culto dei morti era importante per i Micenei? Da che cosa dipendeva la sepoltura?",
+      "answer": "<b>Sì</b>, era molto importante. La sepoltura dipendeva dalla <b>classe sociale</b>.",
+      "explanation": "Culto dei morti vuol dire onorare e ricordare chi è morto. Più una persona era importante in vita, più la sua tomba era grande e ricca."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Che cos'erano le tholos?",
+      "answer": "Le <b>tombe</b> dei re, dei guerrieri e dei nobili: grandi costruzioni <b>circolari</b> con il <b>soffitto a cupola</b>.",
+      "explanation": "Immagina un enorme alveare di pietra, rotondo, con il tetto che si chiude in alto come una cupola. La tholos più famosa è la cosiddetta tomba di Agamennone, a Micene."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "Che cosa mettevano i Micenei nelle tombe?",
+      "answer": "<b>Oggetti</b> appartenuti al defunto, come <b>gioielli</b> e <b>armi</b>.",
+      "explanation": "Il defunto è la persona morta. I Micenei gli lasciavano accanto le sue cose più preziose. Per questo oggi gli archeologi trovano tanti tesori nelle tombe."
+    },
+    {
+      "topic": "religione",
+      "page": 10,
+      "question": "A che cosa servivano le maschere d'oro micenee?",
+      "answer": "A <b>coprire il volto del defunto</b>, riproducendone i lineamenti.<br>La più famosa è la <b>maschera di Agamennone</b>.",
+      "explanation": "I lineamenti sono le forme del viso: naso, occhi, bocca. Agamennone è il re miceneo più famoso delle leggende: era il capo dei Greci nella guerra di Troia."
+    },
+    {
+      "topic": "scrittura",
+      "page": 10,
+      "question": "Quale scrittura usarono all'inizio i Micenei?",
+      "answer": "La <b>Lineare A</b>, imparata dai <b>Cretesi</b>.",
+      "explanation": "Ti ricordi? La Lineare A era la scrittura dei Cretesi, con circa 80 segni. I Micenei la presero da loro dopo averli conquistati."
+    },
+    {
+      "topic": "scrittura",
+      "page": 10,
+      "question": "Che cos'è la Lineare B?",
+      "answer": "La scrittura dei Micenei, nata <b>modificando la Lineare A</b>. Aveva circa <b>200 segni</b>, tra <b>sillabe</b> e <b>ideogrammi</b>.",
+      "explanation": "Un ideogramma è un disegno che indica una cosa intera, per esempio un vaso o un cavallo. Pensa: 200 segni sono tanti, molti di più dei 22 dell'alfabeto fenicio!"
+    },
+    {
+      "topic": "scrittura",
+      "page": 10,
+      "question": "In che direzione si scriveva la Lineare B?",
+      "answer": "Da <b>sinistra</b> a <b>destra</b>.",
+      "explanation": "Proprio come scriviamo noi. Non tutte le scritture antiche andavano in questa direzione: alcune andavano da destra a sinistra."
+    },
+    {
+      "topic": "scrittura",
+      "page": 10,
+      "question": "Quando è stata decifrata la Lineare B?",
+      "answer": "Solo nel <b>1952</b>.",
+      "explanation": "Decifrare vuol dire riuscire a leggere e capire. Per la Lineare B ci si è riusciti, anche se solo nel 1952. La Lineare A dei Cretesi, invece, è ancora un mistero."
+    },
+    {
+      "topic": "scrittura",
+      "page": 10,
+      "question": "Su che cosa scrivevano i Micenei? Che cosa scrivevano?",
+      "answer": "Su <b>tavolette</b> d'argilla, di bronzo e di altri metalli.<br>Scrivevano le <b>merci prodotte</b>, i <b>culti religiosi</b> e le <b>proprietà del re</b>.",
+      "explanation": "Le tavolette erano un po' come i quaderni dei conti: elenchi di cose e di persone. Leggendole, archeologi e archeologhe hanno scoperto tante notizie sulla vita dei Micenei."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Com'era fatta la città di Micene?",
+      "answer": "Era una vera <b>fortezza</b>, costruita su un'<b>altura</b> che dominava la pianura.",
+      "explanation": "Un'altura è un posto alto, come una collina. Da lassù si vedeva arrivare il nemico da lontano, ed era più difficile attaccare la città. Tutte le città-stato micenee erano così."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Che cosa sono le mura ciclopiche? Perché si chiamano così?",
+      "answer": "Le mura che proteggevano Micene, fatte di <b>pietre enormi</b>.<br>Sembravano costruite dai <b>Ciclopi</b>, giganti delle leggende.",
+      "explanation": "Nei miti greci i Ciclopi erano giganti con un solo occhio in mezzo alla fronte. Le pietre erano così grandi che la gente pensava che solo dei giganti potessero averle sollevate."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "All'inizio, che cosa circondavano le mura di Micene?",
+      "answer": "Solo il <b>palazzo del re</b> e la <b>parte alta</b> della città.",
+      "explanation": "Le mura proteggevano prima di tutto il re e le cose più preziose. Il popolo viveva fuori, nei villaggi in campagna."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Perché per i Micenei era importante avere mura alte e spesse?",
+      "answer": "Perché più le mura erano <b>alte, spesse e poderose</b>, più la città era considerata <b>potente</b>.",
+      "explanation": "Le mura servivano a difendersi, ma anche a farsi vedere: erano come un cartello che diceva «Qui siamo forti!». Ricorda che le città micenee erano spesso in guerra tra loro."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Come si chiamava la porta principale di Micene?",
+      "answer": "La <b>Porta dei Leoni</b>.",
+      "explanation": "Si chiama così perché sopra l'entrata ci sono due leoni scolpiti nella pietra. Il leone è un simbolo di forza: chi entrava capiva subito quanto era potente la città."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Dove si trovava il palazzo del re? Che cos'era il mègaron?",
+      "answer": "Nel <b>punto più alto</b> della collina.<br>Il <b>mègaron</b> era la <b>sala del trono</b>.",
+      "explanation": "Il re abitava più in alto di tutti: da lì poteva vedere tutta la sua città. Nel mègaron sedeva sul trono e riceveva le persone importanti."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Che cosa c'era dentro le mura di Micene, oltre al palazzo?",
+      "answer": "Le <b>botteghe degli artigiani</b>, i <b>granai</b> e i <b>magazzini</b> per i prodotti.",
+      "explanation": "Il granaio è il posto dove si conserva il grano. Tenere cibo e merci dentro le mura voleva dire averli al sicuro, anche in caso di guerra."
+    },
+    {
+      "topic": "micene",
+      "page": 11,
+      "question": "Che cosa c'era nel recinto sacro di Micene?",
+      "answer": "Le <b>tombe reali</b>, dove venivano sepolti anche <b>preziosi tesori</b>.",
+      "explanation": "Un recinto sacro è uno spazio chiuso dedicato agli dèi e ai morti. Le tombe dei re erano piene di oggetti preziosi, come le maschere e le tazze d'oro."
+    }
+  ]
+}
