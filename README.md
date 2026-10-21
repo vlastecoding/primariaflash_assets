@@ -126,13 +126,15 @@ The skill needs Python 3 (it installs PyMuPDF in a temporary environment) and th
 
 ### Previewing changes
 
-The app reads the content from a `primariaflash_assets` folder inside its own folder when it runs on `localhost`. To try your changes before opening the pull request, clone the app and this repository inside it:
+**Before pushing**, with the app cloned next to this repository and linked to it (once):
 
 ```bash
+cd ..
 git clone https://github.com/vlastecoding/primariaflash.git
-cd primariaflash
-git clone https://github.com/vlastecoding/primariaflash_assets.git   # or your fork
-python3 -m http.server   # then visit http://localhost:8000
+ln -s ../primariaflash_assets primariaflash/primariaflash_assets
+primariaflash/serve.sh local    # opens http://localhost:8000/?api=local
 ```
 
-Work inside `primariaflash/primariaflash_assets` (it's ignored by the app's git), and open e.g. `http://localhost:8000/#/quarta/geografia/mari`.
+The app then reads the files of this folder as they are on disk, e.g. `http://localhost:8000/?api=local#/quarta/geografia/mari`.
+
+**After pushing a branch**, nothing needs to be installed: open the site with the branch in the address, e.g. `https://primariaflash.netlify.app/?branch=deck/quarta-geografia-mari`, or `?branch=user:deck/…` for a branch of a fork. With the app cloned, `primariaflash/serve.sh prod deck/quarta-geografia-mari` does the same locally.

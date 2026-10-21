@@ -113,7 +113,7 @@ Il Super Ripassone, i conteggi e la ricerca sono calcolati dall'app: non servono
 4. Gli id del mazzo e della materia compaiono nelle liste del livello superiore.
 5. Rileggi le carte confrontandole con le immagini delle pagine: date, nomi e numeri devono corrispondere al libro.
 6. Aggiorna la tabella "Content" nel `README.md` di questo repository con mazzo, numero di carte e argomenti.
-7. Prova in locale, se si può: l'app legge i contenuti da una cartella `primariaflash_assets` dentro il clone dell'app (vedi "Previewing changes" nel README). Se la cartella padre di questo repository è il clone dell'app (contiene `index.html`), lancia `python3 -m http.server` lì e apri `http://localhost:8000/#/{classe}/{materia}/{mazzo}`: gira qualche carta, apri *Spiegamelo meglio*, prova il Super Ripassone. Altrimenti salta questo passo e dillo all'utente.
+7. Prova in locale, se si può (vedi "Previewing changes" nel README): se accanto a questo repository c'è il clone dell'app (`../primariaflash/serve.sh` esiste) con il collegamento `primariaflash_assets`, lancia `../primariaflash/serve.sh local` in background e apri `http://localhost:8000/?api=local#/{classe}/{materia}/{mazzo}`: gira qualche carta, apri *Spiegamelo meglio*, prova il Super Ripassone. Altrimenti salta questo passo e dillo all'utente. Dopo la PR, ricorda all'utente che può controllarla sul sito con `https://primariaflash.netlify.app/?branch={branch}`.
 
 ## 8. Pull request
 
