@@ -1,0 +1,15 @@
+{
+  "id": "storia",
+  "name": "Storia",
+  "book": "Dal libro di Storia di 5ª.",
+  "blurb": "Le civiltà dell'antica Grecia: i Micenei.",
+  "unit": {
+    "singular": "civiltà",
+    "plural": "civiltà"
+  },
+  "color": "sto",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 24 32 10l24 14z\"/><path d=\"M14 28v20M24 28v20M40 28v20M50 28v20\"/><path d=\"M8 54h48M10 48h44\"/></svg>",
+  "decks": [
+    "micenei"
+  ]
+}

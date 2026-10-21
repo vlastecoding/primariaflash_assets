@@ -26,6 +26,7 @@ After a change is merged into `main`, it reaches the site within about 10 minute
 | | | | I Fenici (58 cards) | Quando e dove · Le attività · Invenzioni · Società e religione · Empori e colonie · Le navi · La scrittura |
 | 5ª | **Scienze** | 5th-grade *Scienze e Tecnologia* textbook | Il corpo umano (29 cards) | Apparati e sistemi · Organi e tessuti · I tipi di cellule |
 | | | | L'apparato digerente (36 cards) | La funzione · Gli organi · I denti · La digestione · Le sostanze nutritive |
+| | **Storia** | 5th-grade textbook | I Micenei (57 cards) | Quando e dove · L'organizzazione sociale · Le attività · La religione · La scrittura · La città di Micene |
 
 Update this table in the same pull request that adds or changes a deck.
 
