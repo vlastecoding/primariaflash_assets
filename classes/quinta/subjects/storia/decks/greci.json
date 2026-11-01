@@ -1,19 +1,39 @@
 {
   "id": "greci",
   "name": "I Greci",
-  "pages": "20–21",
-  "blurb": "La polis di Atene, il suo governo, la nascita della democrazia e l'educazione dei ragazzi.",
+  "pages": "14–21",
+  "blurb": "Dall'età buia alle poleis: la società, Sparta e la guerra, Atene e la nascita della democrazia.",
   "color": "cedro",
   "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 18 30 8l24 10-4 30-20 8-20-12z\"/><path d=\"M20 24h22M18 32h26M20 40h18\"/></svg>",
   "wip": true,
   "topics": [
     {
+      "id": "dove",
+      "name": "Quando e dove"
+    },
+    {
       "id": "polis",
+      "name": "La polis e la società"
+    },
+    {
+      "id": "sparta",
+      "name": "Sparta e la sua società"
+    },
+    {
+      "id": "sparta-governo",
+      "name": "Il governo di Sparta"
+    },
+    {
+      "id": "agoghe",
+      "name": "Educare alla guerra"
+    },
+    {
+      "id": "atene",
       "name": "La polis di Atene"
     },
     {
-      "id": "governo",
-      "name": "Il governo della città"
+      "id": "atene-governo",
+      "name": "Il governo di Atene"
     },
     {
       "id": "democrazia",
@@ -26,105 +46,504 @@
   ],
   "cards": [
     {
+      "topic": "dove",
+      "page": 14,
+      "question": "Che cosa successe verso il 1200 a.C. nei territori dei Micenei?",
+      "answer": "Arrivarono i <b>Dori</b>, un popolo del <b>Nord Europa</b>, e <b>occuparono</b> i territori dei Micenei.",
+      "explanation": "Ti ricordi la fine dei Micenei? Sono proprio i Dori ad averli sconfitti. Da qui comincia la storia dei Greci."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Di che cosa vivevano i Dori? In che cosa erano molto abili?",
+      "answer": "Di <b>pastorizia</b> e di <b>caccia</b>. Erano molto abili a lavorare il <b>ferro</b>, con cui facevano le armi.",
+      "explanation": "La pastorizia è l'allevamento di animali come pecore e capre. Ti ricordi? I Micenei facevano le armi con il bronzo, i Dori invece con il ferro."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Che cosa fecero i Micenei quando arrivarono i Dori?",
+      "answer": "Furono costretti a <b>lasciare le città</b>. Alcuni lasciarono la Grecia e andarono sulle coste dell'<b>Asia Minore</b>.",
+      "explanation": "L'Asia Minore è la terra dall'altra parte del Mar Egeo. Alcuni Micenei scapparono lì per cominciare una nuova vita."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Che cos'è l'età buia?",
+      "answer": "Il periodo dopo l'arrivo dei Dori: i <b>commerci diminuirono</b>, la <b>scrittura scomparve</b> e le persone diventarono <b>sempre più povere</b>.",
+      "explanation": "Buia vuol dire senza luce. È come se in Grecia si fosse spenta la luce: meno commerci, niente più scrittura e tanta povertà."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Quanto durò l'età buia e quando finì?",
+      "answer": "Durò circa <b>400 anni</b> e finì attorno all'<b>800 a.C.</b>",
+      "explanation": "Dal 1200 a.C. all'800 a.C. passano proprio 400 anni. Prova a fare il conto: 1200 meno 800 fa 400."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Come finì l'età buia?",
+      "answer": "Ricomparve la <b>scrittura</b> e le popolazioni sconfitte impararono a <b>convivere con i Dori</b>, diventando un <b>unico popolo</b> con la stessa lingua e la stessa religione.",
+      "explanation": "Vincitori e vinti, a poco a poco, smisero di essere nemici e si mescolarono. Da questo nuovo popolo nacque la civiltà dei Greci."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Che cosa sono le poleis?",
+      "answer": "Le <b>città-stato indipendenti</b> dei Greci, ognuna con la sua <b>forma di governo</b>. Al singolare si dice <b>polis</b>.",
+      "explanation": "Una polis, tante poleis: come in italiano diciamo una città, tante città. Ogni polis decideva da sola come governarsi."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Contro chi combatterono le poleis greche?",
+      "answer": "Contro popoli invasori come i <b>Persiani</b>, dal <b>490</b> al <b>479 a.C.</b><br>E tra loro, come nella <b>Guerra del Peloponneso</b>, dal <b>431</b> al <b>404 a.C.</b>",
+      "explanation": "Le poleis combatterono sia contro nemici arrivati da fuori, come i Persiani, sia tra di loro, come nella lunga Guerra del Peloponneso."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Chi occupò la Grecia nel 338 a.C.?",
+      "answer": "I <b>Macedoni</b>, un popolo che viveva <b>a nord della Grecia</b>.",
+      "explanation": "La civiltà greca era durata molti secoli. Nel 338 a.C. arrivarono i Macedoni da nord e presero il controllo della Grecia."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Metti in ordine le tappe della storia dei Greci.",
+      "answer": "<ol><li><b>1200 a.C.</b>: invasione dei Dori</li><li><b>800 a.C.</b>: sviluppo delle poleis</li><li><b>750 a.C.</b>: prime colonie</li><li><b>431–404 a.C.</b>: Guerra del Peloponneso</li><li><b>338 a.C.</b>: occupazione dei Macedoni</li></ol>",
+      "explanation": "Ricorda: negli anni avanti Cristo il numero più grande è il più antico. Prima i Micenei, poi l'età buia, poi le poleis, infine i Macedoni."
+    },
+    {
+      "topic": "dove",
+      "page": 14,
+      "question": "Su quali mari si affacciava la Grecia?",
+      "answer": "Sul <b>Mar Egeo</b>, sul <b>Mar Ionio</b> e sul <b>Mar Mediterraneo</b>.",
+      "explanation": "La Grecia è circondata dal mare quasi da ogni parte: a est c'è il Mar Egeo, a ovest il Mar Ionio, a sud il Mediterraneo."
+    },
+    {
       "topic": "polis",
+      "page": 15,
+      "question": "Che cosa vuol dire che la polis aveva una struttura ricorrente?",
+      "answer": "Che era fatta <b>allo stesso modo</b> in tutte le città-stato greche.",
+      "explanation": "Ricorrente vuol dire che si ripete. Se conoscevi una polis, sapevi già più o meno com'erano fatte tutte le altre."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Com'era fatta una polis?",
+      "answer": "Sull'<b>altura</b> c'erano il <b>palazzo del re</b> e il <b>tempio</b> della divinità protettrice.<br>Nella <b>parte bassa</b> c'erano le <b>case del popolo</b> e le <b>botteghe</b>.",
+      "explanation": "In alto le cose più importanti: il re e il dio che proteggeva la città. In basso la vita di tutti i giorni: case e negozi."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Che cosa aveva ogni polis? Quali furono le principali?",
+      "answer": "Un <b>proprio governo</b> e un <b>proprio esercito</b>.<br>Le principali furono <b>Atene</b> e <b>Sparta</b>.",
+      "explanation": "Ogni polis era come un piccolo Stato: decideva le sue leggi e aveva i suoi soldati. Atene e Sparta erano le più forti di tutte."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Perché le città greche non si unirono mai in un unico regno?",
+      "answer": "Perché il territorio era <b>montuoso</b> e i contatti tra i popoli erano <b>difficili</b>: avvenivano soprattutto <b>via mare</b>.",
+      "explanation": "Con tante montagne in mezzo era faticoso andare da una città all'altra. Così ogni città restava per conto suo."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Perché le poleis erano spesso in lotta tra loro?",
+      "answer": "Per conquistare <b>terre coltivabili</b> o per controllare le <b>rotte commerciali</b>.",
+      "explanation": "Le terre buone per coltivare erano poche, e tutti le volevano. Le rotte commerciali sono le strade sul mare per i commerci: chi le controllava diventava ricco."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Perché i Greci si sentivano un unico popolo, anche se le poleis litigavano?",
+      "answer": "Perché avevano in comune la <b>lingua</b>, le <b>tradizioni</b> e la <b>religione</b>.",
+      "explanation": "È un po' come una famiglia che a volte litiga: si parla la stessa lingua, si festeggiano le stesse feste e ci si sente comunque parte dello stesso gruppo. Trucco: LTR, Lingua, Tradizioni, Religione."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Chi era considerato cittadino nella polis?",
+      "answer": "Solo i <b>maschi liberi</b> nati nella città.",
+      "explanation": "Per essere cittadino servivano tre cose: essere maschio, essere libero e non schiavo, ed essere originario della città."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Che cosa significava essere cittadino in una polis?",
+      "answer": "Avere dei <b>diritti</b>, come partecipare alla vita politica, e dei <b>doveri</b>, come far parte dell'esercito per difendere la polis.<br>Succedeva per la <b>prima volta nella storia</b>.",
+      "explanation": "Un diritto è una cosa che puoi fare, un dovere è una cosa che devi fare. Il cittadino poteva decidere sulla città, ma doveva anche difenderla."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "I cittadini della polis erano tutti uguali?",
+      "answer": "<b>No</b>. Gli <b>aristocratici</b> erano i grandi proprietari di terre e di bestiame.<br>Tutti gli altri formavano il <b>popolo</b> (in greco <b>dèmos</b>): piccoli proprietari, commercianti e artigiani.",
+      "explanation": "Gli aristocratici erano i nobili ricchi. Dèmos è la stessa parola che si trova dentro democrazia, il governo del popolo."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Chi era escluso dalla vita politica della polis?",
+      "answer": "I <b>meteci</b>, gli <b>schiavi</b> e le <b>donne</b>.",
+      "explanation": "Vivevano nella polis, ma non potevano votare né decidere. Trucco: MSD, Meteci, Schiavi, Donne."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Chi erano i meteci?",
+      "answer": "Gli <b>stranieri</b>, soprattutto <b>mercanti</b> e <b>artigiani</b>.",
+      "explanation": "I meteci venivano da fuori e vivevano nella polis per lavorare. Potevano commerciare, ma non partecipare alla vita politica."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Chi erano gli schiavi nelle poleis greche?",
+      "answer": "<b>Prigionieri di guerra</b> oppure cittadini che avevano <b>infranto le leggi</b> o <b>non avevano pagato i debiti</b>.",
+      "explanation": "Si poteva diventare schiavi anche senza essere stati catturati in guerra: bastava non riuscire a pagare quello che si doveva."
+    },
+    {
+      "topic": "polis",
+      "page": 15,
+      "question": "Com'era la vita delle donne nella polis?",
+      "answer": "<b>Non uscivano in pubblico</b>, tranne per le <b>cerimonie</b> e le <b>feste religiose</b>.",
+      "explanation": "Le donne passavano quasi tutto il tempo in casa. Ti ricordi le donne micenee? Loro invece partecipavano alla vita pubblica."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Chi fondò Sparta? Quando e in quale regione?",
+      "answer": "Un gruppo di <b>Dori</b>, nel <b>X secolo a.C.</b>, in <b>Laconia</b>, una regione del <b>Peloponneso</b>.",
+      "explanation": "Il X secolo a.C. sono gli anni dal 1000 al 901 a.C. Il Peloponneso è la stessa regione dove molto tempo prima vivevano i Micenei."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Dove sorgeva Sparta?",
+      "answer": "Ai piedi del <b>monte Taigeto</b>, vicino al <b>fiume Eurota</b>, <b>lontano dal mare</b>.",
+      "explanation": "Atene era vicina al mare e aveva un grande porto. Sparta invece era nell'interno, tra monti e fiumi: una bella differenza!"
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Quale regione conquistarono gli Spartani? Perché era preziosa?",
+      "answer": "La <b>Messenia</b>, dopo lunghe guerre. Era ricca di <b>terre coltivabili</b> che davano <b>cibo in abbondanza</b>.",
+      "explanation": "Con la Messenia gli Spartani avevano tanto cibo. Così potevano pensare soprattutto all'esercito."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Com'erano gli Spartani con gli stranieri e i popoli vicini?",
+      "answer": "Erano una popolazione <b>chiusa</b> e <b>diffidente</b>, con un <b>esercito sempre pronto</b> alla guerra.",
+      "explanation": "Diffidente vuol dire che non si fida degli altri. Gli Spartani stavano sempre in guardia, pronti a combattere."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "In quali gruppi era divisa la popolazione di Sparta?",
+      "answer": "In <b>tre</b> gruppi: <b>spartiati</b>, <b>perieci</b> e <b>iloti</b>.",
+      "explanation": "In cima gli spartiati, in mezzo i perieci, in fondo gli iloti. Trucco: SPI, come le spie, Spartiati, Perieci, Iloti."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Chi erano gli spartiati?",
+      "answer": "I <b>discendenti dei Dori</b>. Erano una <b>minoranza</b>, avevano i <b>diritti politici</b> ed erano gli <b>unici a possedere le terre</b>.",
+      "explanation": "Minoranza vuol dire che erano pochi rispetto a tutti gli altri. Pochi, ma con tutto il potere: solo loro potevano votare ed essere eletti magistrati."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Di che cosa si occupavano gli spartiati? Chi coltivava le loro terre?",
+      "answer": "Solo di <b>politica</b> e di <b>addestramento militare</b>.<br>Le loro terre erano coltivate dagli <b>iloti</b>.",
+      "explanation": "Gli spartiati non lavoravano la terra: facevano i soldati e governavano la città. Il lavoro nei campi toccava agli iloti."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Chi erano i perieci?",
+      "answer": "Soprattutto <b>artigiani</b> e <b>commercianti</b>, gli unici ad avere <b>contatti con gli altri popoli</b>. Non avevano <b>diritti politici</b>, ma dovevano <b>combattere</b> in guerra.",
+      "explanation": "I perieci potevano commerciare con gli stranieri, cosa che gli spartiati non facevano. Però non potevano votare, anche se dovevano andare in guerra."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Chi erano gli iloti?",
+      "answer": "Gli <b>schiavi</b>. Non avevano <b>nessun diritto</b>, lavoravano le <b>terre degli spartiati</b> e vivevano in condizioni <b>molto dure</b>.",
+      "explanation": "Gli iloti erano il gruppo più in basso. Senza di loro, però, gli spartiati non avrebbero avuto da mangiare."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Che libertà avevano le donne spartane?",
+      "answer": "Facevano da <b>capofamiglia</b> quando i mariti erano in guerra e potevano <b>possedere terre</b>.",
+      "explanation": "Molte altre donne greche non uscivano quasi mai di casa. A Sparta, invece, le donne avevano più libertà."
+    },
+    {
+      "topic": "sparta",
+      "page": 18,
+      "question": "Perché le donne spartane praticavano sport e danza?",
+      "answer": "Per crescere <b>figli sani e robusti</b>, adatti alla <b>guerra</b>.",
+      "explanation": "A Sparta tutto ruotava intorno all'esercito. Anche le mamme dovevano essere forti, per avere figli forti."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Che forma di governo aveva Sparta?",
+      "answer": "Un'<b>oligarchia</b>, cioè un <b>governo di pochi</b>.",
+      "explanation": "Ti ricordi? Anche Atene, prima della democrazia, era un'oligarchia. Oligarchia vuol dire che decidono in pochi."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Chi c'era a capo di Sparta? Che cosa faceva?",
+      "answer": "<b>Due re</b>, che svolgevano le <b>funzioni religiose</b> e <b>comandavano l'esercito</b>.",
+      "explanation": "Due re invece di uno: dovevano dividersi il comando."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Vero o falso: a Sparta governavano due re con potere assoluto.",
+      "answer": "<b>Falso</b>: il loro potere era <b>limitato</b> da un consiglio di anziani, i <b>magistrati</b>.",
+      "explanation": "Potere assoluto vuol dire decidere tutto da soli, come il re dei Cretesi. I re di Sparta invece dovevano rendere conto ai magistrati."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Che cosa significa la parola magistrato?",
+      "answer": "<b>Capo, maestro</b>. Nell'antichità indicava una persona che aveva una <b>carica importante</b>.",
+      "explanation": "Una carica è un compito importante che ti viene affidato, come comandare o giudicare. Attenzione: un magistrato non è un re con potere assoluto."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Chi erano gli èfori? Che compiti avevano?",
+      "answer": "<b>Cinque magistrati</b> che dovevano:<ol><li>controllare che i cittadini <b>rispettassero le leggi</b></li><li><b>amministrare la giustizia</b></li><li><b>sorvegliare i re</b></li></ol>",
+      "explanation": "Gli èfori erano come dei controllori: anche i re dovevano stare attenti a loro. Ricorda: cinque, come le dita di una mano."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Che cos'era la gherusìa?",
+      "answer": "Un consiglio di <b>28 anziani</b> con almeno <b>60 anni</b>. Stabiliva le <b>leggi</b> e curava i <b>rapporti con le altre poleis</b>.",
+      "explanation": "Nella gherusìa c'erano pochi membri, tutti anziani: almeno 60 anni. Erano loro a stabilire le leggi."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Che cos'era l'apella?",
+      "answer": "L'<b>assemblea di tutti gli spartiati</b> con almeno <b>30 anni</b>. Si riuniva <b>una volta al mese</b>.",
+      "explanation": "Nell'apella c'erano tutti gli spartiati adulti, non solo gli anziani. Non confonderla con la gherusìa, che aveva solo 28 membri."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Che cosa faceva l'apella?",
+      "answer": "<b>Eleggeva</b> gli èfori e i membri della gherusìa, e <b>approvava o respingeva</b> le loro proposte.",
+      "explanation": "L'apella sceglieva chi doveva governare e poi diceva sì o no alle loro idee."
+    },
+    {
+      "topic": "sparta-governo",
+      "page": 19,
+      "question": "Vero o falso: l'apella era un'assemblea di 28 anziani.",
+      "answer": "<b>Falso</b>: i 28 anziani formavano la <b>gherusìa</b>. L'apella era l'assemblea di <b>tutti gli spartiati</b> con almeno 30 anni.",
+      "explanation": "Trucco: gherusìa = pochi anziani (28, sopra i 60 anni). Apella = tutti gli spartiati adulti (sopra i 30 anni)."
+    },
+    {
+      "topic": "agoghe",
+      "page": 19,
+      "question": "Che cos'era l'agoghé?",
+      "answer": "L'<b>educazione militare</b> degli spartiati. Era <b>molto rigida</b>.",
+      "explanation": "Rigida vuol dire severa, senza sconti. A Sparta i ragazzi venivano preparati fin da piccoli a diventare soldati."
+    },
+    {
+      "topic": "agoghe",
+      "page": 19,
+      "question": "Che cosa succedeva ai bambini spartani a sette anni?",
+      "answer": "I bambini <b>sani e robusti</b> venivano educati <b>in comunità</b>, con un addestramento <b>molto duro</b>: esercitazioni <b>militari</b> e <b>atletiche</b>.",
+      "explanation": "In comunità vuol dire tutti insieme, lontano dalla famiglia. Pensa: a sette anni, cioè più o meno quando si fa la seconda elementare!"
+    },
+    {
+      "topic": "agoghe",
+      "page": 19,
+      "question": "Metti in ordine le età di un ragazzo spartano.",
+      "answer": "<ol><li><b>7 anni</b>: inizia l'educazione in comunità</li><li><b>19 anni</b>: può andare in guerra</li><li><b>30 anni</b>: può partecipare all'apella</li><li><b>60 anni</b>: finisce l'obbligo di addestramento</li></ol>",
+      "explanation": "Trucco: 7, 19, 30, 60. L'addestramento durava tantissimo: più di cinquant'anni!"
+    },
+    {
+      "topic": "agoghe",
+      "page": 19,
+      "question": "Vero o falso: l'obbligo di addestramento militare finiva a 30 anni.",
+      "answer": "<b>Falso</b>: durava fino ai <b>60 anni</b>. A 30 anni si poteva partecipare all'apella.",
+      "explanation": "A Sparta si restava soldati quasi per tutta la vita. I 30 anni sono l'età per entrare nell'apella, non per smettere di allenarsi."
+    },
+    {
+      "topic": "agoghe",
+      "page": 19,
+      "question": "Chi erano gli opliti?",
+      "answer": "<b>Soldati fortemente armati</b>. Formavano la <b>maggior parte dell'esercito</b>.",
+      "explanation": "Fortemente armati vuol dire con tante armi e protezioni addosso. Erano i soldati più numerosi dell'esercito spartano."
+    },
+    {
+      "topic": "agoghe",
+      "page": 19,
+      "question": "Com'era equipaggiato un oplita?",
+      "answer": "<b>Lancia</b>, <b>scudo</b>, <b>elmo</b>, <b>corazza</b>, <b>schinieri</b> e <b>mantello</b>.",
+      "explanation": "La corazza proteggeva il petto e gli schinieri le gambe, sotto il ginocchio. Lancia per attaccare, scudo ed elmo per difendersi."
+    },
+    {
+      "topic": "atene",
+      "page": 16,
+      "question": "In quante parti era divisa la città di Atene? Quali?",
+      "answer": "In <b>quattro parti</b>: <b>acropoli</b>, <b>agorà</b>, <b>asty</b> e <b>chora</b>.",
+      "explanation": "Come le altre città-stato, anche Atene aveva quattro zone. Trucco: dall'alto verso il fuori, acropoli in cima, agorà e asty in basso, chora fuori dalle mura."
+    },
+    {
+      "topic": "atene",
+      "page": 16,
+      "question": "Perché l'acropoli di Atene è così famosa?",
+      "answer": "È uno dei più importanti esempi della <b>cultura greca</b>. Nel <b>1987</b> è stata dichiarata <b>Patrimonio dell'Unesco</b>.",
+      "explanation": "Patrimonio dell'Unesco vuol dire che è un tesoro di tutta l'umanità, da proteggere. Ancora oggi si possono visitare i suoi resti."
+    },
+    {
+      "topic": "atene",
+      "page": 16,
+      "question": "Dove si trova l'acropoli di Atene? Quali edifici comprende?",
+      "answer": "A circa <b>150 metri</b> sul livello del mare. Comprende i resti del <b>Partenone</b> e del <b>tempio di Zeus</b>.",
+      "explanation": "150 metri sono più o meno l'altezza di un palazzo di 50 piani. Zeus era il re degli dèi, ti ricordi?"
+    },
+    {
+      "topic": "atene",
+      "page": 16,
+      "question": "Che cos'era l'agorà?",
+      "answer": "La <b>piazza principale</b>, dove si tenevano le <b>assemblee dei cittadini</b> e il <b>mercato</b>.",
+      "explanation": "L'agorà era il cuore della città: si facevano la spesa e la politica nello stesso posto."
+    },
+    {
+      "topic": "atene",
+      "page": 17,
+      "question": "Che cos'era l'acropoli? Che cosa c'era?",
+      "answer": "La <b>città alta</b>, su un'<b>altura</b>. C'erano i <b>templi</b> e gli <b>edifici pubblici</b> più importanti.",
+      "explanation": "Acropoli vuol dire proprio città alta. Lassù si mettevano le cose più importanti e sacre della città."
+    },
+    {
+      "topic": "atene",
+      "page": 17,
+      "question": "Che cos'era l'asty?",
+      "answer": "La <b>parte bassa</b> della città, con le <b>case del popolo</b> e le <b>botteghe artigiane</b>.",
+      "explanation": "Se l'acropoli era la città alta, l'asty era la città bassa, dove viveva e lavorava la gente comune."
+    },
+    {
+      "topic": "atene",
+      "page": 17,
+      "question": "Che cos'era la chora? A che cosa servivano le mura?",
+      "answer": "La chora erano i <b>villaggi</b> e le <b>campagne fuori dalle mura</b>.<br>Le mura <b>difendevano la polis</b> dai nemici.",
+      "explanation": "Dentro le mura c'era la città, fuori c'erano i campi e i villaggi. Ti ricordi i damoi dei Micenei? Erano anche loro villaggi fuori dalle mura."
+    },
+    {
+      "topic": "atene",
       "page": 20,
       "question": "Chi fondò la polis di Atene e quando?",
       "answer": "Gli <b>Achei</b>, nel <b>1500 a.C.</b>",
       "explanation": "Ti ricordi gli Achei? Sono il popolo arrivato nel Peloponneso nel 2000 a.C., che chiamiamo anche Micenei. Atene è una delle loro città."
     },
     {
-      "topic": "polis",
+      "topic": "atene",
       "page": 20,
       "question": "In quale regione della Grecia si trovava Atene? Com'era quella zona?",
       "answer": "Nell'<b>Attica</b>, una zona <b>molto fertile</b>.",
       "explanation": "Fertile vuol dire che la terra è buona per coltivare: le piante crescono bene. Per una città era una grande fortuna, perché il cibo non mancava."
     },
     {
-      "topic": "polis",
+      "topic": "atene",
       "page": 20,
       "question": "Come si chiamava il porto di Atene? Perché era importante?",
       "answer": "Il <b>Pireo</b>, un grande porto naturale. Favorì lo sviluppo del <b>commercio marittimo</b> e delle <b>comunicazioni</b>.",
       "explanation": "Un porto naturale è un punto della costa dove le navi possono fermarsi al riparo senza bisogno di costruire grandi opere. Atene era vicina al mare e il Pireo era la sua porta per il mondo."
     },
     {
-      "topic": "polis",
+      "topic": "atene",
       "page": 20,
       "question": "Di che cosa era ricco il territorio di Atene? Che cosa se ne ricavava?",
       "answer": "Di <b>miniere</b> e <b>cave</b>, da cui si estraevano <b>argento</b>, <b>piombo</b>, <b>pietra</b> e <b>marmo</b>.",
       "explanation": "Dalle miniere si scava sotto terra per prendere i metalli, come l'argento e il piombo. Dalle cave si tagliano blocchi di pietra e di marmo, per costruire."
     },
     {
-      "topic": "polis",
+      "topic": "atene",
       "page": 20,
       "question": "Che cosa successe all'Attica durante l'invasione dei Dori?",
       "answer": "Non subì <b>grandi distruzioni</b>.",
       "explanation": "Ti ricordi i Dori? Sono il popolo che distrusse molte città micenee. L'Attica, invece, se la cavò senza grandi danni, e questo la aiutò a crescere."
     },
     {
-      "topic": "polis",
+      "topic": "atene",
       "page": 20,
       "question": "Perché Atene riuscì a svilupparsi così tanto?",
       "answer": "<ol><li>terra <b>fertile</b></li><li>il porto del <b>Pireo</b></li><li><b>miniere</b> e <b>cave</b></li><li>poche distruzioni durante l'invasione dei <b>Dori</b></li></ol>",
       "explanation": "Tutte queste fortune insieme aiutarono Atene a crescere nell'agricoltura, nell'artigianato, nel commercio e nella cultura. Trucco: Terra, Porto, Miniere, Dori."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Chi governava Atene all'inizio?",
       "answer": "Un <b>re</b>, come in altre città-stato della Grecia.",
       "explanation": "All'inizio Atene era come le città dei Micenei: c'era un re che comandava. Poi le cose cambiarono più volte."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Che cos'è un'oligarchia? Fino a quando durò ad Atene?",
       "answer": "Il governo di un <b>gruppo ristretto di aristocratici</b>. Durò fino alla <b>fine del VII secolo a.C.</b>",
       "explanation": "Aristocratici sono i nobili, le famiglie più ricche e potenti. Nell'oligarchia comandano in pochi: non un re da solo, ma un piccolo gruppo di nobili."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Com'era la vita dei contadini al tempo dell'oligarchia?",
       "answer": "La maggior parte delle terre era degli <b>aristocratici</b>. Spesso i contadini, per sopravvivere, dovevano <b>cedere la terra ai nobili</b> e diventare loro <b>schiavi</b>.",
       "explanation": "Sopravvivere vuol dire riuscire a restare vivi. I contadini erano così poveri che a volte davano via la loro terra e perfino la loro libertà."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Che cosa iniziò a chiedere il popolo di Atene?",
       "answer": "<b>Più diritti</b>, <b>leggi migliori</b> e la possibilità di <b>partecipare alla vita politica</b> della polis.",
       "explanation": "Partecipare alla vita politica vuol dire poter dire la propria e decidere insieme come governare la città. Il popolo non voleva più che decidessero solo i nobili."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Che cosa sono i conflitti sociali? Tra chi ci furono ad Atene?",
       "answer": "Sono <b>contrasti</b> tra i gruppi che formano la società. Ad Atene ci furono tra i <b>nobili</b> e il <b>popolo</b>.",
       "explanation": "Un conflitto è uno scontro, un litigio. Sociale vuol dire che riguarda la società, cioè tutte le persone che vivono insieme. Da una parte i nobili, dall'altra il popolo."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Grazie a chi le richieste del popolo diventarono realtà?",
       "answer": "Grazie a due <b>legislatori</b>: <b>Solone</b> e <b>Clistene</b>.",
       "explanation": "Un legislatore è una persona che scrive le leggi. Solone e Clistene hanno cambiato le regole della città per dare più spazio al popolo. Trucco: tutti e due finiscono in -one e -ene, come Atene!"
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Quali assemblee crearono Solone e Clistene?",
       "answer": "L'<b>ecclèsia</b> e la <b>bulè</b>, alla base del governo della città.",
       "explanation": "Un'assemblea è un gruppo di persone che si riunisce per discutere e decidere. Queste due assemblee erano come i due pilastri che reggevano il governo di Atene."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Che cosa serviva per poter votare ad Atene?",
       "answer": "Essere <b>uomini</b> di almeno <b>20 anni</b>, <b>figli di Ateniesi</b> e aver completato l'<b>addestramento militare</b>.<br>Non servivano più <b>ricchezze</b> e <b>terreni</b>.",
       "explanation": "Prima votava solo chi era ricco e aveva terre. Con le nuove regole contava invece essere un cittadino di Atene. Fai attenzione: le donne non votavano, servivano uomini adulti."
     },
     {
-      "topic": "governo",
+      "topic": "atene-governo",
       "page": 20,
       "question": "Che cosa vuol dire democrazia?",
       "answer": "<b>Governo del popolo</b>.<br>Viene dal greco dèmos (popolo) e kràtos (governo).",

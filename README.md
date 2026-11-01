@@ -27,7 +27,7 @@ After a change is merged into `main`, it reaches the site within about 10 minute
 | 5ª | **Scienze** | 5th-grade *Scienze e Tecnologia* textbook | Il corpo umano (29 cards) | Apparati e sistemi · Organi e tessuti · I tipi di cellule |
 | | | | L'apparato digerente (36 cards) | La funzione · Gli organi · I denti · La digestione · Le sostanze nutritive |
 | | **Storia** | 5th-grade textbook | I Micenei (57 cards) | Quando e dove · L'organizzazione sociale · Le attività · La religione · La scrittura · La città di Micene |
-| | | | I Greci (33 cards) | La polis di Atene · Il governo della città · La democrazia ad Atene · Educare alla democrazia |
+| | | | I Greci (90 cards) | Quando e dove · La polis e la società · Sparta e la sua società · Il governo di Sparta · Educare alla guerra · La polis di Atene · Il governo di Atene · La democrazia ad Atene · Educare alla democrazia |
 
 Update this table in the same pull request that adds or changes a deck.
 
