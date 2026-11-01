@@ -98,6 +98,7 @@ Aggiungi solo fatti sicuri e di cultura generale; non inventare dettagli che il 
 - `blurb`: una riga che riassume il capitolo.
 - `color`: uno tra `porpora`, `egeo`, `cedro`, `sci`, `sto`, `mix`. Scegline uno diverso dai mazzi vicini della stessa materia quando ha senso.
 - `icon`: SVG semplice a tratto, `viewBox="0 0 64 64"`, `stroke="currentColor"`, legato al tema (toro, nave, cuore…).
+- `wip`: `true` se il mazzo copre solo una parte del capitolo (l'app mostra "Nuovi argomenti in arrivo!" sotto il numero di carte); toglilo quando il capitolo è completo.
 
 **Materia nuova** — `classes/{classe}/subjects/{materia}.json` con `id`, `name`, `book` (es. "Dal libro di Scienze e Tecnologia di 5ª."), `blurb`, `unit` (`{"singular": "argomento", "plural": "argomenti"}`), `color`, `icon`, `decks`; poi aggiungi l'id della materia alla lista `subjects` della classe in `classes.json`.
 

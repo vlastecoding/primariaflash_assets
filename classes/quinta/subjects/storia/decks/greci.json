@@ -1,0 +1,260 @@
+{
+  "id": "greci",
+  "name": "I Greci",
+  "pages": "20–21",
+  "blurb": "La polis di Atene, il suo governo, la nascita della democrazia e l'educazione dei ragazzi.",
+  "color": "cedro",
+  "icon": "<svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 18 30 8l24 10-4 30-20 8-20-12z\"/><path d=\"M20 24h22M18 32h26M20 40h18\"/></svg>",
+  "wip": true,
+  "topics": [
+    {
+      "id": "polis",
+      "name": "La polis di Atene"
+    },
+    {
+      "id": "governo",
+      "name": "Il governo della città"
+    },
+    {
+      "id": "democrazia",
+      "name": "La democrazia ad Atene"
+    },
+    {
+      "id": "educazione",
+      "name": "Educare alla democrazia"
+    }
+  ],
+  "cards": [
+    {
+      "topic": "polis",
+      "page": 20,
+      "question": "Chi fondò la polis di Atene e quando?",
+      "answer": "Gli <b>Achei</b>, nel <b>1500 a.C.</b>",
+      "explanation": "Ti ricordi gli Achei? Sono il popolo arrivato nel Peloponneso nel 2000 a.C., che chiamiamo anche Micenei. Atene è una delle loro città."
+    },
+    {
+      "topic": "polis",
+      "page": 20,
+      "question": "In quale regione della Grecia si trovava Atene? Com'era quella zona?",
+      "answer": "Nell'<b>Attica</b>, una zona <b>molto fertile</b>.",
+      "explanation": "Fertile vuol dire che la terra è buona per coltivare: le piante crescono bene. Per una città era una grande fortuna, perché il cibo non mancava."
+    },
+    {
+      "topic": "polis",
+      "page": 20,
+      "question": "Come si chiamava il porto di Atene? Perché era importante?",
+      "answer": "Il <b>Pireo</b>, un grande porto naturale. Favorì lo sviluppo del <b>commercio marittimo</b> e delle <b>comunicazioni</b>.",
+      "explanation": "Un porto naturale è un punto della costa dove le navi possono fermarsi al riparo senza bisogno di costruire grandi opere. Atene era vicina al mare e il Pireo era la sua porta per il mondo."
+    },
+    {
+      "topic": "polis",
+      "page": 20,
+      "question": "Di che cosa era ricco il territorio di Atene? Che cosa se ne ricavava?",
+      "answer": "Di <b>miniere</b> e <b>cave</b>, da cui si estraevano <b>argento</b>, <b>piombo</b>, <b>pietra</b> e <b>marmo</b>.",
+      "explanation": "Dalle miniere si scava sotto terra per prendere i metalli, come l'argento e il piombo. Dalle cave si tagliano blocchi di pietra e di marmo, per costruire."
+    },
+    {
+      "topic": "polis",
+      "page": 20,
+      "question": "Che cosa successe all'Attica durante l'invasione dei Dori?",
+      "answer": "Non subì <b>grandi distruzioni</b>.",
+      "explanation": "Ti ricordi i Dori? Sono il popolo che distrusse molte città micenee. L'Attica, invece, se la cavò senza grandi danni, e questo la aiutò a crescere."
+    },
+    {
+      "topic": "polis",
+      "page": 20,
+      "question": "Perché Atene riuscì a svilupparsi così tanto?",
+      "answer": "<ol><li>terra <b>fertile</b></li><li>il porto del <b>Pireo</b></li><li><b>miniere</b> e <b>cave</b></li><li>poche distruzioni durante l'invasione dei <b>Dori</b></li></ol>",
+      "explanation": "Tutte queste fortune insieme aiutarono Atene a crescere nell'agricoltura, nell'artigianato, nel commercio e nella cultura. Trucco: Terra, Porto, Miniere, Dori."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Chi governava Atene all'inizio?",
+      "answer": "Un <b>re</b>, come in altre città-stato della Grecia.",
+      "explanation": "All'inizio Atene era come le città dei Micenei: c'era un re che comandava. Poi le cose cambiarono più volte."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Che cos'è un'oligarchia? Fino a quando durò ad Atene?",
+      "answer": "Il governo di un <b>gruppo ristretto di aristocratici</b>. Durò fino alla <b>fine del VII secolo a.C.</b>",
+      "explanation": "Aristocratici sono i nobili, le famiglie più ricche e potenti. Nell'oligarchia comandano in pochi: non un re da solo, ma un piccolo gruppo di nobili."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Com'era la vita dei contadini al tempo dell'oligarchia?",
+      "answer": "La maggior parte delle terre era degli <b>aristocratici</b>. Spesso i contadini, per sopravvivere, dovevano <b>cedere la terra ai nobili</b> e diventare loro <b>schiavi</b>.",
+      "explanation": "Sopravvivere vuol dire riuscire a restare vivi. I contadini erano così poveri che a volte davano via la loro terra e perfino la loro libertà."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Che cosa iniziò a chiedere il popolo di Atene?",
+      "answer": "<b>Più diritti</b>, <b>leggi migliori</b> e la possibilità di <b>partecipare alla vita politica</b> della polis.",
+      "explanation": "Partecipare alla vita politica vuol dire poter dire la propria e decidere insieme come governare la città. Il popolo non voleva più che decidessero solo i nobili."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Che cosa sono i conflitti sociali? Tra chi ci furono ad Atene?",
+      "answer": "Sono <b>contrasti</b> tra i gruppi che formano la società. Ad Atene ci furono tra i <b>nobili</b> e il <b>popolo</b>.",
+      "explanation": "Un conflitto è uno scontro, un litigio. Sociale vuol dire che riguarda la società, cioè tutte le persone che vivono insieme. Da una parte i nobili, dall'altra il popolo."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Grazie a chi le richieste del popolo diventarono realtà?",
+      "answer": "Grazie a due <b>legislatori</b>: <b>Solone</b> e <b>Clistene</b>.",
+      "explanation": "Un legislatore è una persona che scrive le leggi. Solone e Clistene hanno cambiato le regole della città per dare più spazio al popolo. Trucco: tutti e due finiscono in -one e -ene, come Atene!"
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Quali assemblee crearono Solone e Clistene?",
+      "answer": "L'<b>ecclèsia</b> e la <b>bulè</b>, alla base del governo della città.",
+      "explanation": "Un'assemblea è un gruppo di persone che si riunisce per discutere e decidere. Queste due assemblee erano come i due pilastri che reggevano il governo di Atene."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Che cosa serviva per poter votare ad Atene?",
+      "answer": "Essere <b>uomini</b> di almeno <b>20 anni</b>, <b>figli di Ateniesi</b> e aver completato l'<b>addestramento militare</b>.<br>Non servivano più <b>ricchezze</b> e <b>terreni</b>.",
+      "explanation": "Prima votava solo chi era ricco e aveva terre. Con le nuove regole contava invece essere un cittadino di Atene. Fai attenzione: le donne non votavano, servivano uomini adulti."
+    },
+    {
+      "topic": "governo",
+      "page": 20,
+      "question": "Che cosa vuol dire democrazia?",
+      "answer": "<b>Governo del popolo</b>.<br>Viene dal greco dèmos (popolo) e kràtos (governo).",
+      "explanation": "Dèmos vuol dire popolo, kràtos vuol dire governo: democrazia è quando è il popolo a governare. Ti ricordi il damos dei Micenei? È una parola molto simile."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Com'erano i diritti dei cittadini nell'Atene democratica?",
+      "answer": "Tutti i cittadini avevano gli <b>stessi diritti</b> e partecipavano alla vita politica attraverso <b>due assemblee</b>.",
+      "explanation": "Avere gli stessi diritti vuol dire che le regole valgono uguali per tutti i cittadini, ricchi o poveri. Le due assemblee erano l'ecclèsia e la bulè."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Che cos'era l'ecclèsia? Chi poteva partecipare?",
+      "answer": "L'<b>assemblea popolare</b>. Potevano partecipare <b>tutti</b> i cittadini, con <b>libertà di parola</b>, e ognuno poteva fare proposte.",
+      "explanation": "Libertà di parola vuol dire che ognuno può dire quello che pensa senza paura. Nell'ecclèsia chiunque poteva alzarsi e proporre un'idea."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Quante volte si riuniva l'ecclèsia? Che cosa faceva?",
+      "answer": "<b>Quattro volte al mese</b>. Discuteva i <b>problemi della città</b>, <b>votava le leggi</b>, decideva su <b>pace e guerra</b> e sceglieva i <b>magistrati</b>.",
+      "explanation": "Quattro volte al mese è circa una volta a settimana. Lì si prendevano le decisioni più importanti di tutta la città."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Che cos'era la bulè?",
+      "answer": "Un <b>consiglio di 500 cittadini estratti a sorte</b>.",
+      "explanation": "Estratti a sorte vuol dire scelti come in una lotteria, pescando i nomi. Così chiunque poteva essere scelto, non solo i più ricchi o i più famosi."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Che compiti aveva la bulè?",
+      "answer": "<b>Proponeva le leggi</b> all'ecclèsia e, dopo l'approvazione, <b>controllava che venissero applicate</b>.",
+      "explanation": "La bulè preparava le leggi, l'ecclèsia le votava. Poi la bulè faceva da guardiano: controllava che tutti le rispettassero."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Chi erano gli arconti? Quanti erano e quanto restavano in carica?",
+      "answer": "<b>Nove magistrati</b> che governavano la città, ognuno con un <b>compito specifico</b>. Erano eletti per <b>un anno</b> e <b>non potevano essere rieletti</b>.",
+      "explanation": "Restare in carica solo un anno, senza poter essere rieletti, impediva a una persona di tenersi il potere troppo a lungo. Ognuno dei nove si occupava di una cosa diversa."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Chi erano gli strateghi? Quanti erano?",
+      "answer": "<b>Dieci</b> comandanti dell'<b>esercito</b> e della <b>flotta</b>.",
+      "explanation": "La flotta è l'insieme delle navi da guerra. Gli strateghi guidavano i soldati sia a terra sia in mare."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Quando l'ecclèsia poteva nominare un tiranno? Che potere aveva?",
+      "answer": "In <b>momenti di particolare difficoltà</b>. Le sue decisioni <b>non potevano essere messe in discussione</b>.",
+      "explanation": "Nei momenti di pericolo serviva qualcuno che decidesse in fretta, senza lunghe discussioni. Ma il potere glielo dava il popolo, con un voto dell'ecclèsia."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Che cosa succedeva al tiranno quando aveva finito il suo compito?",
+      "answer": "Il popolo poteva <b>togliergli l'incarico</b> oppure <b>rieleggerlo</b>.",
+      "explanation": "Anche il tiranno, alla fine, doveva rispondere al popolo. Era il popolo a decidere se mandarlo via o lasciarlo al suo posto."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Che cos'era l'ostracismo?",
+      "answer": "L'<b>allontanamento da Atene per dieci anni</b> di una persona ritenuta <b>pericolosa</b> per la città.",
+      "explanation": "Era un modo per proteggere la democrazia: se qualcuno sembrava una minaccia per la città, i cittadini potevano mandarlo via per dieci anni."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Da che cosa viene la parola ostracismo? Come si votava?",
+      "answer": "Da òstrakon, il <b>pezzo di coccio</b> su cui i cittadini <b>scrivevano il nome</b> della persona ritenuta pericolosa.",
+      "explanation": "Un coccio è un pezzetto di un vaso rotto. Invece di una scheda di carta, gli Ateniesi usavano questi cocci per votare, scrivendoci sopra un nome."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Sotto quale politico Atene raggiunse il massimo splendore? Quando?",
+      "answer": "Sotto <b>Pericle</b>, nella <b>seconda metà del V secolo a.C.</b>",
+      "explanation": "Splendore vuol dire il momento più bello e ricco. Con Pericle Atene crebbe nell'economia, nell'arte e nella cultura."
+    },
+    {
+      "topic": "democrazia",
+      "page": 21,
+      "question": "Come descrisse Pericle la democrazia ateniese?",
+      "answer": "Un governo che favorisce <b>i molti invece dei pochi</b>, con leggi che assicurano una <b>giustizia uguale per tutti</b>.",
+      "explanation": "Pensa all'oligarchia: lì comandavano pochi nobili. Con la democrazia, invece, si pensava al bene di tante persone, e la legge era uguale per tutti."
+    },
+    {
+      "topic": "educazione",
+      "page": 21,
+      "question": "Che cosa c'era alla base dell'educazione ateniese?",
+      "answer": "La <b>partecipazione attiva</b> alla vita della polis.",
+      "explanation": "I ragazzi venivano preparati a diventare cittadini, cioè a partecipare alle assemblee e alle decisioni della città. La scuola serviva anche a questo."
+    },
+    {
+      "topic": "educazione",
+      "page": 21,
+      "question": "Da che età cominciava l'istruzione dei bambini ad Atene? Con chi?",
+      "answer": "Dai <b>sei anni</b>, per i <b>maschi</b>, con un <b>insegnante privato</b>.",
+      "explanation": "Un insegnante privato è un maestro pagato dalla famiglia, non una scuola per tutti come la tua. E a scuola andavano solo i maschi."
+    },
+    {
+      "topic": "educazione",
+      "page": 21,
+      "question": "Chi continuava a studiare dopo i quindici anni?",
+      "answer": "Solo i ragazzi delle <b>famiglie più ricche</b>.",
+      "explanation": "Studiare costava, perché bisognava pagare l'insegnante. Per questo dopo i quindici anni continuava solo chi aveva una famiglia ricca."
+    },
+    {
+      "topic": "educazione",
+      "page": 21,
+      "question": "Che cos'era l'efebìa? Che cosa si imparava?",
+      "answer": "La <b>scuola militare</b>, fino ai <b>diciott'anni</b>. Si imparava a usare le <b>armi</b>, ma c'era anche un'educazione <b>letteraria</b> e <b>musicale</b>.",
+      "explanation": "Non si imparava solo a combattere: si studiavano anche la letteratura e la musica. Un buon cittadino doveva essere forte, ma anche colto."
+    },
+    {
+      "topic": "educazione",
+      "page": 21,
+      "question": "Che cosa succedeva ai ragazzi ateniesi intorno ai vent'anni?",
+      "answer": "Diventavano <b>cittadini</b>: partecipavano alle <b>assemblee</b> e potevano fare <b>carriera politica</b>.",
+      "explanation": "Vent'anni era anche l'età minima per votare. Dopo tutti gli anni di studio e di addestramento, finalmente potevano dire la loro nella vita della città."
+    }
+  ]
+}
